@@ -1,18 +1,18 @@
 # Softwares Homologados
 
-Frequentemente o serviço de suporte ao usuário de TI da ANAC recebe solicitações para instalação de softwares aplicativos nas estações de trabalho, mas nem sempre é possível instalar tais softwares por questões de licenciamento, compatibilidade, segurança ou aplicabilidade às atividades da Agência. Antes de instalar qualquer novo software, a STI faz uma avaliação sobre esses quesitos e os homologa para instalação ou não.
+Frequentemente o suporte ao usuário de TI da Mais Mu recebe solicitações para instalação de softwares aplicativos nas estações de trabalho, mas nem sempre é possível instalar tais softwares por questões de licenciamento, compatibilidade, segurança ou aplicabilidade às atividades da Agência. Antes de instalar qualquer novo software, nós fazemos uma avaliação sobre esses quesitos e os homologa para instalação ou não.
 
 ## Quesitos avaliados
 
 ### Licenciamento
 Um software pode ter diferentes tipos de licença de uso. As mais comuns são:
 
-#### ==Software livre ou open source:==
+#### - ==Software livre ou open source:==
 O aplicativo é distribuído junto com seu código fonte. Há diferentes tipos dessa licença, mas a maioria delas permite a livre instalação, modificação e redistribuição do software. Além disso, não costuma haver restrições para uso em ambiente corporativo;
-#### ==Software gratuito ou freeware:==
-O aplicativo pode ser instalado e redistribuído, mas não pode ser modificado, ou seja, seu código fonte é fechado. É necessária atenção ao fato de que alguns desses aplicativos têm o uso liberado apenas para uso particular, exigindo a aquisição de uma licença quando for utilizado em ambiente corporativo. Assim, antes de se efetuar a instalação desses aplicativos na ANAC, é necessária uma minuciosa análise de sua licença, para identificar se ela é compatível com o uso corporativo;
-#### ==Software proprietário ou comercial:== 
-É necessária a aquisição de uma licença para que o software possa ser instalado e utilizado. Normalmente, o fabricante controla essas instalações através do fornecimento de chaves ou números de série, que são ativados ou validados via Internet. Na ANAC, fazem parte dessa categoria o pacote Microsoft Office, licenciado para todas as estações de trabalho, assim com diversas outras aplicações, adquiridas em quantidades mais reduzidas, conforme a necessidade.
+#### - ==Software gratuito ou freeware:==
+O aplicativo pode ser instalado e redistribuído, mas não pode ser modificado, ou seja, seu código fonte é fechado. É necessária atenção ao fato de que alguns desses aplicativos têm o uso liberado apenas para uso particular, exigindo a aquisição de uma licença quando for utilizado em ambiente corporativo. Assim, antes de se efetuar a instalação desses aplicativos na Mais Mu, é necessária uma minuciosa análise de sua licença, para identificar se ela é compatível com o uso corporativo;
+#### - ==Software proprietário ou comercial:== 
+É necessária a aquisição de uma licença para que o software possa ser instalado e utilizado. Normalmente, o fabricante controla essas instalações através do fornecimento de chaves ou números de série, que são ativados ou validados via Internet. Na Mais Mu, fazem parte dessa categoria o pacote Microsoft Office, licenciado para todas as estações de trabalho, assim com diversas outras aplicações, adquiridas em quantidades mais reduzidas, conforme a necessidade.
 
 ### Compatibilidade
 Nem todos os aplicativos são compatíveis com a ambiente computacional da Agência. Assim, para cada novo aplicativo que se deseja homologar, é necessário efetuar testes que verifiquem se ele é compatível com nossos computadores (hardware e sistema operacional) e também com os demais softwares e sistemas existentes, serviços de rede, proxies, etc.
@@ -23,8 +23,8 @@ Mesmo passando pelos critérios anteriores, um software pode apresentar problema
 ### Aplicabilidade
 Ainda que um software seja livre ou gratuito, compatível com nosso ambiente e não apresente riscos à segurança, não quer dizer que possa ser instalado livremente. Só serão instalados aplicativos cuja funcionalidade tenha relação com as atividades desenvolvidas pelo usuário no interesse da Agência.
 
-### Softwares homologados pela STI
-A seguir são listados os softwares já homologados pela STI para instalação. Parte desses softwares está disponível para instalação na Central de Software. Dessa forma, o próprio usuário pode efetuar rapidamente a instalação, sem intervenção do suporte técnico. Caso você necessite da instalação de algum programa não listado abaixo e que você julgue atender a todos os quesitos citados acima, pode solicitar através do Portal de Serviços a sua homologação e posterior instalação.
+### Softwares homologados pelo Suporte de TI
+A seguir são listados os softwares já homologados pelo suporte para instalação. Parte desses softwares está disponível para instalação na Central de Software. Dessa forma, o próprio usuário pode efetuar rapidamente a instalação, sem intervenção do suporte técnico. Caso você necessite da instalação de algum programa não listado abaixo e que você julgue atender a todos os quesitos citados acima, pode solicitar através do Portal de Serviços a sua homologação e posterior instalação.
 
 ### Softwares padrão
 Pré-instalados em todas as máquinas. São aplicativos e ferramentas que já fazem parte da instalação padrão de todas as estações de trabalho. Se eventualmente algum dos softwares abaixo não estiver instalado em sua máquina ou estiver desatualizado, basta entrar na Central de Software, disponível no Menu Iniciar do seu computador, e prosseguir com a instalação ou atualização.
