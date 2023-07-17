@@ -24,14 +24,24 @@ Mesmo passando pelos critérios anteriores, um software pode apresentar problema
 Ainda que um software seja livre ou gratuito, compatível com nosso ambiente e não apresente riscos à segurança, não quer dizer que possa ser instalado livremente. Só serão instalados aplicativos cuja funcionalidade tenha relação com as atividades desenvolvidas pelo usuário no interesse da Agência.
 
 ### Softwares homologados pelo Suporte de TI
-A seguir são listados os softwares já homologados pelo suporte para instalação. Parte desses softwares está disponível para instalação na Central de Software. Dessa forma, o próprio usuário pode efetuar rapidamente a instalação, sem intervenção do suporte técnico. Caso você necessite da instalação de algum programa não listado abaixo e que você julgue atender a todos os quesitos citados acima, pode solicitar através do Portal de Serviços a sua homologação e posterior instalação.
+A seguir são listados os softwares já homologados pelo suporte para instalação. Caso você necessite da instalação de algum programa não listado abaixo e que você julgue atender a todos os quesitos citados acima, pode solicitar através da nossa [central de chamados](https://suporte.maismu.com.br).
 
 ### Softwares padrão
-Pré-instalados em todas as máquinas. São aplicativos e ferramentas que já fazem parte da instalação padrão de todas as estações de trabalho. Se eventualmente algum dos softwares abaixo não estiver instalado em sua máquina ou estiver desatualizado, basta entrar na Central de Software, disponível no Menu Iniciar do seu computador, e prosseguir com a instalação ou atualização.
+__Pré-instalados em todas as máquinas.__ São aplicativos e ferramentas que já fazem parte da instalação padrão de todas as estações de trabalho. Se eventualmente algum dos softwares abaixo não estiver instalado em sua máquina ou estiver desatualizado, pode solicitar através da nossa [central de chamados](https://suporte.maismu.com.br).
 
-extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
+
+pip install mkdocs-table-reader-plugin
+
+plugins:
+  - search
+  - table-reader
+
+...
+
+{{ read_excel('./documentos/softwares_padrao.xlsx', engine='openpyxl') }}
+
+...
+
 
 |Software	|Descrição	|Licença	|Central de Software
 ---------------------------------------------------------------
