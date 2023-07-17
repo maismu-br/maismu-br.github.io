@@ -7,10 +7,14 @@ Frequentemente o serviço de suporte ao usuário de TI da ANAC recebe solicitaç
 ### Licenciamento
 Um software pode ter diferentes tipos de licença de uso. As mais comuns são:
 
-Software livre ou open source: o aplicativo é distribuído junto com seu código fonte. Há diferentes tipos dessa licença, mas a maioria delas permite a livre instalação, modificação e redistribuição do software. Além disso, não costuma haver restrições para uso em ambiente corporativo;
-Software gratuito ou freeware: o aplicativo pode ser instalado e redistribuído, mas não pode ser modificado, ou seja, seu código fonte é fechado. É necessária atenção ao fato de que alguns desses aplicativos têm o uso liberado apenas para uso particular, exigindo a aquisição de uma licença quando for utilizado em ambiente corporativo. Assim, antes de se efetuar a instalação desses aplicativos na ANAC, é necessária uma minuciosa análise de sua licença, para identificar se ela é compatível com o uso corporativo;
-Software proprietário ou comercial: é necessária a aquisição de uma licença para que o software possa ser instalado e utilizado. Normalmente, o fabricante controla essas instalações através do fornecimento de chaves ou números de série, que são ativados ou validados via Internet. Na ANAC, fazem parte dessa categoria o pacote Microsoft Office, licenciado para todas as estações de trabalho, assim com diversas outras aplicações, adquiridas em quantidades mais reduzidas, conforme a necessidade.
-Compatibilidade¶
+==#### Software livre ou open source:==
+O aplicativo é distribuído junto com seu código fonte. Há diferentes tipos dessa licença, mas a maioria delas permite a livre instalação, modificação e redistribuição do software. Além disso, não costuma haver restrições para uso em ambiente corporativo;
+==#### Software gratuito ou freeware:==
+O aplicativo pode ser instalado e redistribuído, mas não pode ser modificado, ou seja, seu código fonte é fechado. É necessária atenção ao fato de que alguns desses aplicativos têm o uso liberado apenas para uso particular, exigindo a aquisição de uma licença quando for utilizado em ambiente corporativo. Assim, antes de se efetuar a instalação desses aplicativos na ANAC, é necessária uma minuciosa análise de sua licença, para identificar se ela é compatível com o uso corporativo;
+==#### Software proprietário ou comercial:== 
+É necessária a aquisição de uma licença para que o software possa ser instalado e utilizado. Normalmente, o fabricante controla essas instalações através do fornecimento de chaves ou números de série, que são ativados ou validados via Internet. Na ANAC, fazem parte dessa categoria o pacote Microsoft Office, licenciado para todas as estações de trabalho, assim com diversas outras aplicações, adquiridas em quantidades mais reduzidas, conforme a necessidade.
+
+### Compatibilidade
 Nem todos os aplicativos são compatíveis com a ambiente computacional da Agência. Assim, para cada novo aplicativo que se deseja homologar, é necessário efetuar testes que verifiquem se ele é compatível com nossos computadores (hardware e sistema operacional) e também com os demais softwares e sistemas existentes, serviços de rede, proxies, etc.
 
 ### Segurança
