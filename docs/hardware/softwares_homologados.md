@@ -29,9 +29,13 @@ A seguir são listados os softwares já homologados pelo suporte para instalaç�
 ### Softwares padrão
 Pré-instalados em todas as máquinas. São aplicativos e ferramentas que já fazem parte da instalação padrão de todas as estações de trabalho. Se eventualmente algum dos softwares abaixo não estiver instalado em sua máquina ou estiver desatualizado, basta entrar na Central de Software, disponível no Menu Iniciar do seu computador, e prosseguir com a instalação ou atualização.
 
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
 |Software	|Descrição	|Licença	|Central de Software
 ---------------------------------------------------------------
-|7-Zip	|Compactador e descompactador de arquivos compatível com a maioria dos formatos de arquivos compactados, entre eles ZIP, RAR, ISO, TGZ e CAB. Alternativa gratuita aos softwares WinZIP e WinRAR, que são comerciais para uso corporativo	|Software Livre	|Sim
+|'7-Zip'	|Compactador e descompactador de arquivos compatível com a maioria dos formatos de arquivos compactados, entre eles ZIP, RAR, ISO, TGZ e CAB. Alternativa gratuita aos softwares WinZIP e WinRAR, que são comerciais para uso corporativo	|Software Livre	|Sim
 Adobe Reader	Leitor de arquivos no formato PDF (Portable Document File)	Gratuito	Sim
 CDBurnerXP	Gravador de CDs e DVDs. Solução gratuita alternativa ao software comercial Nero Burning ROM	Gratuito	Sim
 Google Chrome	Navegador de Internet. Permite a instalação de extensões que ampliam as funcionalidades do navegador	Gratuito	Sim
