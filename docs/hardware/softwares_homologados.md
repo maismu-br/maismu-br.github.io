@@ -1,8 +1,10 @@
-Softwares Homologados¶
+# Softwares Homologados
+
 Frequentemente o serviço de suporte ao usuário de TI da ANAC recebe solicitações para instalação de softwares aplicativos nas estações de trabalho, mas nem sempre é possível instalar tais softwares por questões de licenciamento, compatibilidade, segurança ou aplicabilidade às atividades da Agência. Antes de instalar qualquer novo software, a STI faz uma avaliação sobre esses quesitos e os homologa para instalação ou não.
 
-Quesitos avaliados¶
-Licenciamento¶
+## Quesitos avaliados
+
+### Licenciamento
 Um software pode ter diferentes tipos de licença de uso. As mais comuns são:
 
 Software livre ou open source: o aplicativo é distribuído junto com seu código fonte. Há diferentes tipos dessa licença, mas a maioria delas permite a livre instalação, modificação e redistribuição do software. Além disso, não costuma haver restrições para uso em ambiente corporativo;
@@ -11,16 +13,16 @@ Software proprietário ou comercial: é necessária a aquisição de uma licenç
 Compatibilidade¶
 Nem todos os aplicativos são compatíveis com a ambiente computacional da Agência. Assim, para cada novo aplicativo que se deseja homologar, é necessário efetuar testes que verifiquem se ele é compatível com nossos computadores (hardware e sistema operacional) e também com os demais softwares e sistemas existentes, serviços de rede, proxies, etc.
 
-Segurança¶
+### Segurança
 Mesmo passando pelos critérios anteriores, um software pode apresentar problemas no que se refere à segurança da informação. Existem aplicativos que trazem embutidos em seus instaladores programas conhecidos como spywares, que comprometem a privacidade e a segurança dos dados do usuário. Há outros que não são propriamente spywares, mas apresentam funcionalidade que permite enviar para fora do ambiente corporativo informações sensíveis ou sigilosas e que requerem, portanto, uma avaliação sobre seu funcionamento.
 
-Aplicabilidade¶
+### Aplicabilidade
 Ainda que um software seja livre ou gratuito, compatível com nosso ambiente e não apresente riscos à segurança, não quer dizer que possa ser instalado livremente. Só serão instalados aplicativos cuja funcionalidade tenha relação com as atividades desenvolvidas pelo usuário no interesse da Agência.
 
-Softwares homologados pela STI¶
+### Softwares homologados pela STI
 A seguir são listados os softwares já homologados pela STI para instalação. Parte desses softwares está disponível para instalação na Central de Software. Dessa forma, o próprio usuário pode efetuar rapidamente a instalação, sem intervenção do suporte técnico. Caso você necessite da instalação de algum programa não listado abaixo e que você julgue atender a todos os quesitos citados acima, pode solicitar através do Portal de Serviços a sua homologação e posterior instalação.
 
-Softwares padrão¶
+### Softwares padrão
 Pré-instalados em todas as máquinas. São aplicativos e ferramentas que já fazem parte da instalação padrão de todas as estações de trabalho. Se eventualmente algum dos softwares abaixo não estiver instalado em sua máquina ou estiver desatualizado, basta entrar na Central de Software, disponível no Menu Iniciar do seu computador, e prosseguir com a instalação ou atualização.
 
 Software	Descrição	Licença	Central de Software
