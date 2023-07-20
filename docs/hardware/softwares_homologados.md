@@ -29,21 +29,15 @@ A seguir são listados os softwares já homologados pelo suporte para instalaç�
 ### Softwares padrão
 __Pré-instalados em todas as máquinas.__ São aplicativos e ferramentas que já fazem parte da instalação padrão de todas as estações de trabalho. Se eventualmente algum dos softwares abaixo não estiver instalado em sua máquina ou estiver desatualizado, pode solicitar através da nossa [central de chamados](https://suporte.maismu.com.br).
 
+|Software|Descrição|Licença|
+|--------|---------|-------|
+|'7-Zip'|Compactador e descompactador de arquivos compatível com a maioria dos formatos de arquivos compactados, entre eles ZIP, RAR, ISO, TGZ e CAB. Alternativa gratuita aos softwares WinZIP e WinRAR, que são comerciais para uso corporativo|Software Livre|
 
-pip install mkdocs-table-reader-plugin
 
-plugins:
-  - search
-  - table-reader
 
-...
 
-{{ read_excel('./documentos/softwares_padrao.xlsx', engine='openpyxl') }}
 
-...
-|Nome|Descrição|
 
-|Software|Descrição|Licença|Central de Software|
 ------------------------------------------------
 |'7-Zip'|Compactador e descompactador de arquivos compatível com a maioria dos formatos de arquivos compactados, entre eles ZIP, RAR, ISO, TGZ e CAB. Alternativa gratuita aos softwares WinZIP e WinRAR, que são comerciais para uso corporativo|Software Livre|
 Adobe Reader	Leitor de arquivos no formato PDF (Portable Document File)	Gratuito	Sim
