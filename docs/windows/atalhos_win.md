@@ -1,6 +1,6 @@
 # Dicas e truques do Windows 10
 
-![windows](https://maismu-my.sharepoint.com/personal/lucas_maismu_onmicrosoft_com/Documents/10.%20Arquivos%20MD/windows-1.png)
+![windows](https://maismu-my.sharepoint.com/personal/lucas_maismu_onmicrosoft_com/Documents/10.%20Arquivos%20MD/windows/windows-1.png)
 
 ### Conteúdo do guia
 O propósito deste guia é apresentar a você as funcionalidades principais do Windows 10 e mostrar dicas e truques de como começar a usar estas funcionalidades.
