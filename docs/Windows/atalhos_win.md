@@ -1,6 +1,6 @@
 # Dicas e truques do Windows 10
 
-![windows](assets/images/windows-1.png)
+![windows](/assets/images/windows-1.png#center)
 
 ### Conteúdo do guia
 O propósito deste guia é apresentar a você as funcionalidades principais do Windows 10 e mostrar dicas e truques de como começar a usar estas funcionalidades.
