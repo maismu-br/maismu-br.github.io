@@ -25,7 +25,7 @@ nav:
                 - Dicas e truques do Windows 10: windows/atalhos_win.md
         #- Menu exemplo:
         #        Submenu exemplo: suporte/faq.md
-        - Ajuda: sobre.md
+        #- Ajuda: sobre.md
 
                
 # Configuration
