@@ -43,9 +43,9 @@ plugins:
 ...
 
 
-|Software	|Descrição	|Licença	|Central de Software
----------------------------------------------------------------
-|'7-Zip'	|Compactador e descompactador de arquivos compatível com a maioria dos formatos de arquivos compactados, entre eles ZIP, RAR, ISO, TGZ e CAB. Alternativa gratuita aos softwares WinZIP e WinRAR, que são comerciais para uso corporativo	|Software Livre	|Sim
+|Software|Descrição|Licença|Central de Software|
+------------------------------------------------
+|'7-Zip'|Compactador e descompactador de arquivos compatível com a maioria dos formatos de arquivos compactados, entre eles ZIP, RAR, ISO, TGZ e CAB. Alternativa gratuita aos softwares WinZIP e WinRAR, que são comerciais para uso corporativo|Software Livre|
 Adobe Reader	Leitor de arquivos no formato PDF (Portable Document File)	Gratuito	Sim
 CDBurnerXP	Gravador de CDs e DVDs. Solução gratuita alternativa ao software comercial Nero Burning ROM	Gratuito	Sim
 Google Chrome	Navegador de Internet. Permite a instalação de extensões que ampliam as funcionalidades do navegador	Gratuito	Sim
