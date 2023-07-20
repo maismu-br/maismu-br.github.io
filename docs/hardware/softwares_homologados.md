@@ -41,7 +41,7 @@ plugins:
 {{ read_excel('./documentos/softwares_padrao.xlsx', engine='openpyxl') }}
 
 ...
-
+|Nome|Descrição|
 
 |Software|Descrição|Licença|Central de Software|
 ------------------------------------------------
