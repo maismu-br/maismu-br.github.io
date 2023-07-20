@@ -18,7 +18,7 @@ copyright: © 2023 Company - Todos os direitos reservados
 nav:
         - Início: index.md
         - Suporte:
-                - Softwares Homologados: hardware/softwares_homologados.md
+                - Softwares Homologados: suporte/softwares_homologados.md
         - Hardware:
                 - Formatando equipamento: hardware/formatacao.md
         #- Menu exemplo:
