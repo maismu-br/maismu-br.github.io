@@ -21,6 +21,8 @@ nav:
                 - Softwares Homologados: suporte/softwares_homologados.md
         - Hardware:
                 - Formatando equipamento: hardware/formatacao.md
+        - Windows:
+                - Dicas e truques do Windows 10: windows/atalhos_win.md
         #- Menu exemplo:
         #        Submenu exemplo: suporte/faq.md
         - Ajuda: sobre.md
