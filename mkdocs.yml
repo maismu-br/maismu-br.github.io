@@ -23,6 +23,8 @@ nav:
                 - Formatando equipamento: hardware/formatacao.md
         - Windows:
                 - Dicas e truques do Windows 10: windows/atalhos_win.md
+        - Microsoft Office:
+                - Guias rápidos do Office 365: office/guias_rapidos.md
         #- Menu exemplo:
         #        Submenu exemplo: suporte/faq.md
         #- Ajuda: sobre.md
