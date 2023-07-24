@@ -17,5 +17,3 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |------|---------|
 |:fontawesome-brands-windows:{ .windows }|Abre e fecha o menu Iniciar.|
 |:fontawesome-brands-windows:{ .windows } + ++x++|Abre o conteúdo avançado do menu Iniciar no canto inferior esquerdo da tela.|
-|:fontawesome-brands-windows:{ .windows } + ++ x ++|Abre o conteúdo avançado do menu Iniciar no canto inferior esquerdo da tela.|
-|:fontawesome-brands-windows:{ .windows } + :fontawesome-brands-x:{ .x }|Abre o conteúdo avançado do menu Iniciar no canto inferior esquerdo da tela.|
