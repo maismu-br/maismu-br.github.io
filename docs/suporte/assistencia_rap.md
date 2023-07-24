@@ -6,12 +6,20 @@ A Assistência Rápida é um aplicativo da Microsoft Store que permite que uma p
 
 1. Digite Assistência Rápida na pesquisa do Windows e pressione ENTER.
 
-2. Com o aplicativo aberto -> insira o código que o tecnico informar -> Enviar. 
+2. Com o aplicativo aberto -> Em "Obter ajuda" insira o código que o tecnico informar -> Enviar. 
 
+![acessar](../assets/images/assistencia-rapida-acessar.png#center)
 
 ## Instalar Assistência Rápida
 
 1. Baixe o Assistência Rápida visitando a [Microsoft Store](https://apps.microsoft.com/store/detail/assist%C3%AAncia-r%C3%A1pida/9P7BP5VNWKX5). 
+
 2. Na Microsoft Store, selecione Entrar no aplicativo Store. Em seguida, dê permissão para instalar Assistência Rápida. Quando a instalação estiver concluída, clique em Abrir.
 
-![instalar](../assets/images/assistencia-rapida-baixar.png)
+![instalar](../assets/images/assistencia-rapida-baixar.png#center)
+
+
+
+:fontawesome-brands-windows:{ .windows }:
+:fontawesome-brands-twitter:{ .twitter }:
+:fontawesome-regular-file-pdf:{:target="_blank"}

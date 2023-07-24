@@ -18,6 +18,7 @@ nav:
         - Início: index.md
         - Suporte:
                 - Softwares Homologados: suporte/softwares_homologados.md
+                - Assistência Rápida: suporte/assistencia_rap.md
         - Hardware:
                 - Formatando equipamento: hardware/formatacao.md
         - Windows:
