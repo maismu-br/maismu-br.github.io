@@ -7,8 +7,7 @@ Comece a trabalhar rapidamente com as informações básicas que você precisa p
 
 ### Guia rápido do Word
 
-|![Word](https://manuaisti.anac.gov.br/office/img/word-1.png?style=left)| [Clique aqui para aprender o básico.](https://manuaisti.anac.gov.br/office/pdf/Word2016QuickStartGuide-MicrosoftCorporation.pdf)
-|---------|---------| 
+![Word](https://manuaisti.anac.gov.br/office/img/word-1.png?style=left)[Clique aqui para aprender o básico.](https://manuaisti.anac.gov.br/office/pdf/Word2016QuickStartGuide-MicrosoftCorporation.pdf)
 
 ### Guia rápido do Excel
 Ainda não conhece o Microsoft Excel 2016? [Clique aqui para aprender o básico.](https://maismu-my.sharepoint.com/:b:/g/personal/lucas_maismu_onmicrosoft_com/EWa1gohVc5FClxZDfZzTwjMB3nWtBpQJOKHQhdVP5-UGAg?e=YumRdC)
