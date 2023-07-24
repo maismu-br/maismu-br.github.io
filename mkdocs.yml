@@ -3,10 +3,9 @@ site_name: Central de Serviços
 site_url: http://maismu-br.github.io/
 site_author: maismu-br
 site_description: >-
-  Um modelo para futuros wikis
+  Wiki +Mu - Manuais, procedimentos, guias rápidos e dicas, em um único lugar
 
 # Repository
-# repo_name: fconhkd.github.io
 repo_url: https://github.com/maismu-br/maismu-br.github.io
 edit_uri: edit/main/docs
 # edit_uri_template: 'blob/main/docs/{path}'
@@ -38,7 +37,7 @@ theme:
         #icon:
         #        logo: fontawesome/solid/computer
         logo: assets/images/logo-muka-white.png
-        #favicon: assets/images/favicon.png
+        favicon: assets/images/logo-muka-white.png
         features:
                 - announce.dismiss
                 # - content.action.edit
@@ -96,7 +95,7 @@ extra:
                 #- icon: fontawesome/brands/facebook
                 #  link: https://www.facebook.com/fconhkd
                 - icon: fontawesome/brands/github
-                  link: https://github.com/lucaseglesias
+                  link: https://github.com/maismu-br
 
                   
         caption: true
@@ -120,9 +119,9 @@ plugins:
         - minify:
                 minify_html: true
         - git-revision-date-localized:
-                # enabled: !ENV [CI, false]
+                enabled: !ENV [CI, false]
                 enable_creation_date: true
-                fallback_to_build_date: false
+                fallback_to_build_date: true
                 type: timeago
 
 # Extensions

@@ -1,6 +1,6 @@
 # Formatando o equipamento
 
-![incluir-imagem](assets/images/manuais-procedimentos.jpg#center)
+![incluir-imagem](/assets/images/manuais-procedimentos.jpg#center)
 
 ## Introdução
 
@@ -13,6 +13,7 @@ Não existe um tempo recomendado, ideal ou padronizado para que seja realizada a
 A verificação necessária antes da formatação em si é atentar-se às principais configurações da máquina antes de realizar a formatação. Por exemplo, a configuração de rede e vídeo, a verificação de quais softwares estão instalados na máquina para saber se será possível realizar a reinstalação após a formatação, bem como realizar o procedimento de backup de todos os arquivos e dados necessários, para só então realizar a formatação do sistema, apagando todos os dados do equipamento neste procedimento.
 
 ## Pré-requisitos para a formatação de equipamentos
+
 ### 1. Pré-requisito: Windows 10/11 _Professional_ e vantagens
 
 * Atualizações de segurança regulares e automatizadas;

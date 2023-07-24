@@ -1,25 +1,56 @@
 # Guias rápidos do Office 365
 
-![office](https://manuaisti.anac.gov.br/office/img/office-1.png?style=center#center)
+![Office](../assets/images/office365/office365-logo2.png#center)
 
 ## Introdução
+
 Comece a trabalhar rapidamente com as informações básicas que você precisa para ser produtivo.
 
-### Guia rápido do Word
+## Guia rápido do Microsoft Word
 
-![Word](https://manuaisti.anac.gov.br/office/img/word-1.png?style=left) Ainda não conhece o Microsoft Word?[Clique aqui para aprender o básico.](https://manuaisti.anac.gov.br/office/pdf/Word2016QuickStartGuide-MicrosoftCorporation.pdf)
+![Word](../assets/images/office365/word-1.png){align=left} 
+Ainda não conhece o Microsoft Word? Use este guia para aprender o básico.
 
-### Guia rápido do Excel
-Ainda não conhece o Microsoft Excel 2016? [Clique aqui para aprender o básico.](https://maismu-my.sharepoint.com/:b:/g/personal/lucas_maismu_onmicrosoft_com/EWa1gohVc5FClxZDfZzTwjMB3nWtBpQJOKHQhdVP5-UGAg?e=YumRdC)
+:fontawesome-regular-file-pdf: [Guia rápido do Word (.PDF)](pdf/Word2016QuickStartGuide-MicrosoftCorporation.pdf){:target="_blank"}
+<br /><br />
 
-### Guia rápido do Powerpoint
-Ainda não conhece o Microsoft Powerpoint 2016? [Clique aqui para aprender o básico.](https://maismu-my.sharepoint.com/:b:/g/personal/lucas_maismu_onmicrosoft_com/EY92q-W7fZVCk75_mEVcexABVwlUDbG43qRD0TBCJJR0qA?e=VEiY2h)
 
-### Guia rápido do Outlook
-Ainda não conhece o Microsoft Outlook 2016? [Clique aqui para aprender o básico.](https://maismu-my.sharepoint.com/:b:/g/personal/lucas_maismu_onmicrosoft_com/ESJw5m_6rKFLhkd9S0PlMa0Bx05up-40QpSXpw6YfnBx-w?e=q9RL1S)
+## Guia rápido do Microsoft Excel
 
-### Guia rápido do Onenote
-Ainda não conhece o Microsoft Onenote 2016? [Clique aqui para aprender o básico.](https://maismu-my.sharepoint.com/:b:/g/personal/lucas_maismu_onmicrosoft_com/ESJ25mtFeGRCjcU3hZa_mhABwGZEYzyKLaVrk8fL8VoVJQ?e=mP1edT)
+![Excel](../assets/images/office365/excel-1.png){align=left}
+Ainda não conhece o Microsoft Excel? Use este guia para aprender o básico.
 
-### Guia rápido do Onedrive
-Faça mais onde quer que você esteja com um armazenamento de arquivos, acesso e compartilhamento seguros. Entre em sua assinatura do Office 365 e selecione OneDrive no inicializador de aplicativos. [Clique aqui para aprender o básico.](https://maismu-my.sharepoint.com/:b:/g/personal/lucas_maismu_onmicrosoft_com/EWfG2ZINT6tNtoC5aMtKfxgBz20doC2uANaRsCWPp9oHow?e=yckI9t)
+:fontawesome-regular-file-pdf: [Guia rápido do Excel (.PDF)](pdf/Excel2016QuickStartGuide-MicrosoftCorporation.pdf){:target="_blank"}
+<br /><br />
+
+## Guia rápido do PowerPoint
+
+![PowerPoint](../assets/images/office365/ppt-1.png){align=left} 
+Ainda não conhece o Microsoft PowerPoint? Use este guia para aprender o básico.
+
+:fontawesome-regular-file-pdf: [Guia rápido do PowerPoint (.PDF)](pdf/Powerpoint2016QuickStartGui-MicrosoftCorporation.pdf){:target="_blank"}
+<br /><br />
+
+## Guia rápido do Outlook
+
+![outlook](../assets/images/office365/outlook-1.png){align=left} 
+Ainda não conhece o Microsoft Outlook? Use este guia para aprender o básico.
+
+:fontawesome-regular-file-pdf: [Guia rápido do Outlook (.PDF)](pdf/Outlook2016QuickStartGuide-MicrosoftCorporation.pdf){:target="_blank"}
+<br /><br />
+
+## Guia rápido do OneNote
+
+![onenote](../assets/images/office365/onenote-1.png){align=left} 
+Ainda não conhece o Microsoft OneNote? Use este guia para aprender o básico.
+
+:fontawesome-regular-file-pdf: [Guia rápido do OneNote (.PDF)](pdf/Onenote2016QuickStartGuide-MicrosoftCorporation.pdf){:target="_blank"}
+<br /><br />
+
+## Guia rápido do OneDrive
+
+![onedrive](../assets/images/office365/onedrive-1.png){align=left}
+Faça mais onde quer que você esteja com um armazenamento de arquivos, acesso e compartilhamento seguros. Entre em sua assinatura do Office 365 e selecione OneDrive no inicializador de aplicativos. Use este guia para aprender o básico.
+
+:fontawesome-regular-file-pdf:[Guia rápido do OneDrive (.PDF)](pdf/MS_Office_QuickstartOneDrive.pdf){:target="_blank"}
+<br /><br />
