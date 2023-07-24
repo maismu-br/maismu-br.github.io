@@ -37,7 +37,7 @@ theme:
         #icon:
         #        logo: fontawesome/solid/computer
         logo: assets/images/logo-muka-white.png
-        favicon: assets/images/logo-muka-white.png
+        favicon: assets/images/mkdocs-favicon.png
         features:
                 - announce.dismiss
                 # - content.action.edit
