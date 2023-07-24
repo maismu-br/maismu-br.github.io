@@ -26,7 +26,7 @@ nav:
                 - Guias rápidos do Office 365: office/guias_rapidos.md
         #- Menu exemplo:
         #        Submenu exemplo: suporte/faq.md
-        #- Ajuda: sobre.md
+        - Ajuda: sobre.md
 
                
 # Configuration
