@@ -55,3 +55,5 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++enter++|Inicia o Narrador.|
 |:fontawesome-brands-windows:{ .windows } + ++c++|Inicia Cortana1 no modo de escuta. Você pode começar a falar com Cortana imediatamente.|
 |:fontawesome-brands-windows:{ .windows } + ++s++|Inicia Cortana. Você pode iniciar a digitar uma pesquisa imediatamente.|
+
+++windows++ + ++shift++
