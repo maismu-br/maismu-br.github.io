@@ -49,13 +49,9 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++print-screen++|Tira uma imagem da tela e salva na pasta Computador > Imagens > Screenshots.|
 |++alt++ + ++print-screen++|Copia uma imagem da tela na Área de Transferência.|
 |:fontawesome-brands-windows:{ .windows } + ++u++|Inicia a Central de Facilidade de Acesso.|
-|:fontawesome-brands-windows:{ .windows } + ++sun++|Aumenta o Zoom.|
-|:fontawesome-brands-windows:{ .windows } + ++subtraction++|Diminui o Zoom.|
+|:fontawesome-brands-windows:{ .windows } + ++plus-box++|Aumenta o Zoom.|
+|:fontawesome-brands-windows:{ .windows } + ++minus-box++|Diminui o Zoom.|
 |:fontawesome-brands-windows:{ .windows } + ++esc++|Fecha a Lupa.|
 |:fontawesome-brands-windows:{ .windows } + ++enter++|Inicia o Narrador.|
 |:fontawesome-brands-windows:{ .windows } + ++c++|Inicia Cortana1 no modo de escuta. Você pode começar a falar com Cortana imediatamente.|
 |:fontawesome-brands-windows:{ .windows } + ++s++|Inicia Cortana. Você pode iniciar a digitar uma pesquisa imediatamente.|
-
-
-|:fontawesome-brands-windows:{ .windows } + ++ + ++|Aumenta o Zoom.|
-|:fontawesome-brands-windows:{ .windows } + ++ - ++|Aumenta o Zoom.|
