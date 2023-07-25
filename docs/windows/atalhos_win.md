@@ -24,4 +24,4 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++t++|Alterna entre os aplicativos da Barra de Tarefas.|
 |:fontawesome-brands-windows:{ .windows } + ++v++|Alterna entre as notificações|
 |:fontawesome-brands-windows:{ .windows } + ++,++|Dá uma espiada na Área de Trabalho.|
-|:fontawesome-brands-windows:{ .windows } + :fontawesome-brands-arrow-left:{ .arrow-left } |Dá uma espiada na Área de Trabalho.|
+|:fontawesome-brands-windows:{ .windows } + :arrow-left: |Dá uma espiada na Área de Trabalho.|
