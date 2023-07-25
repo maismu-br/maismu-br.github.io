@@ -13,7 +13,7 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 [Teclas de atralho do Windows 10](pdf/Windows-10-Teclas-de-atalho.pdf)
 
 
-|Teclas|Descrição|
+|Atalho|Descrição|
 |------|---------|
 |:fontawesome-brands-windows:{ .windows }|Abre e fecha o menu Iniciar.|
 |:fontawesome-brands-windows:{ .windows } + ++x++|Abre o conteúdo avançado do menu Iniciar no canto inferior esquerdo da tela.|
@@ -46,20 +46,16 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++i++|Abre o App de Configurações.|
 |:fontawesome-brands-windows:{ .windows } + ++k++|Abre o painel Conectar para se conectar a dispositivos de exibição ou de áudio sem fio.|
 |:fontawesome-brands-windows:{ .windows } + ++p++|Abre o painel Projetar para pesquisar e se conectar a telas e projetores externos.|
-|:fontawesome-brands-windows:{ .windows } + ++prnt-scrn++|Tira uma imagem da tela e salva na pasta Computador > Imagens > Screenshots.|
-|++alt++ + ++prnt-scrn++|Copia uma imagem da tela na Área de Transferência.|
+|:fontawesome-brands-windows:{ .windows } + ++print-screen++|Tira uma imagem da tela e salva na pasta Computador > Imagens > Screenshots.|
+|++alt++ + ++print-screen++|Copia uma imagem da tela na Área de Transferência.|
 |:fontawesome-brands-windows:{ .windows } + ++u++|Inicia a Central de Facilidade de Acesso.|
-|:fontawesome-brands-windows:{ .windows } + +++++|Aumenta o Zoom.|
-|:fontawesome-brands-windows:{ .windows } + ++-++|Diminui o Zoom.|
+|:fontawesome-brands-windows:{ .windows } + ++sun++|Aumenta o Zoom.|
+|:fontawesome-brands-windows:{ .windows } + ++subtraction++|Diminui o Zoom.|
 |:fontawesome-brands-windows:{ .windows } + ++esc++|Fecha a Lupa.|
 |:fontawesome-brands-windows:{ .windows } + ++enter++|Inicia o Narrador.|
 |:fontawesome-brands-windows:{ .windows } + ++c++|Inicia Cortana1 no modo de escuta. Você pode começar a falar com Cortana imediatamente.|
 |:fontawesome-brands-windows:{ .windows } + ++s++|Inicia Cortana. Você pode iniciar a digitar uma pesquisa imediatamente.|
 
 
-
-
-
-:fontawesome-brands-windows:{ .windows } + ++prnt-scrn++
-:fontawesome-brands-windows:{ .windows } + ++espaço++
-:fontawesome-brands-windows:{ .windows } + ++espaco++
+|:fontawesome-brands-windows:{ .windows } + ++more++|Aumenta o Zoom.|
+|:fontawesome-brands-windows:{ .windows } + ++any-less++|Aumenta o Zoom.|
