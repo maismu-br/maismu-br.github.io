@@ -23,3 +23,6 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++m++|Alterna para a Área de Trabalho e minimiza todas as janelas abertas.|
 |:fontawesome-brands-windows:{ .windows } + ++t++|Alterna entre os aplicativos da Barra de Tarefas.|
 |:fontawesome-brands-windows:{ .windows } + ++v++|Alterna entre as notificações|
+
+:fontawesome-regular-arrow-left:
+:fontawesome-regular-arrow:
