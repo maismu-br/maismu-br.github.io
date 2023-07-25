@@ -23,6 +23,20 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++m++|Alterna para a Área de Trabalho e minimiza todas as janelas abertas.|
 |:fontawesome-brands-windows:{ .windows } + ++t++|Alterna entre os aplicativos da Barra de Tarefas.|
 |:fontawesome-brands-windows:{ .windows } + ++v++|Alterna entre as notificações|
+|:fontawesome-brands-windows:{ .windows } + ++comma++|Dá uma espiada na Área de Trabalho|
+|:fontawesome-brands-windows:{ .windows } + ++arrow-left++|Encaixa a janela ativa na metade esquerda do monitor.|
+|:fontawesome-brands-windows:{ .windows } + ++arrow-right++|Encaixa a janela ativa na metade direita do monitor.|
+|:fontawesome-brands-windows:{ .windows } + ++arrow-up++|Maximiza a janela ativa verticalmente e horizontalmente.|
+|:fontawesome-brands-windows:{ .windows } + ++arrow-down++|Restaura ou minimiza a janela ativa|
+|:fontawesome-brands-windows:{ .windows } + ++home++|Minimiza todas as janelas inativas; restaura no segundo toque|
+|:fontawesome-brands-windows:{ .windows } + ++shift++ + ++arrow-up++|Maximiza a janela ativa verticalmente, mantendo a largura atual.|
+|:fontawesome-brands-windows:{ .windows } + ++shift++ + ++arrow-down++|Restaura ou minimiza a janela ativa verticalmente, mantendo a largura atual|
+|:fontawesome-brands-windows:{ .windows } + ++shift++ + ++arrow-left++|Com múltiplos monitores, move a janela ativa para o monitor à esquerda|
+|:fontawesome-brands-windows:{ .windows } + ++shift++ + ++arrow-right++|Com múltiplos monitores, move a janela ativa para o monitor à direita.|
+
+
+
+
 
 :fontawesome-regular-arrow-left:
 :fontawesome-regular-arrow:
