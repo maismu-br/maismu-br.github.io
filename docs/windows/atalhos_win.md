@@ -57,5 +57,5 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++s++|Inicia Cortana. Você pode iniciar a digitar uma pesquisa imediatamente.|
 
 
-|:fontawesome-brands-windows:{ .windows } + ++more++|Aumenta o Zoom.|
-|:fontawesome-brands-windows:{ .windows } + ++any-less++|Aumenta o Zoom.|
+|:fontawesome-brands-windows:{ .windows } + ++ + ++|Aumenta o Zoom.|
+|:fontawesome-brands-windows:{ .windows } + ++ - ++|Aumenta o Zoom.|
