@@ -33,6 +33,9 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++shift++ + ++arrow-down++|Restaura ou minimiza a janela ativa verticalmente, mantendo a largura atual|
 |:fontawesome-brands-windows:{ .windows } + ++shift++ + ++arrow-left++|Com múltiplos monitores, move a janela ativa para o monitor à esquerda|
 |:fontawesome-brands-windows:{ .windows } + ++shift++ + ++arrow-right++|Com múltiplos monitores, move a janela ativa para o monitor à direita.|
+|:fontawesome-brands-windows:{ .windows } + ++tab++|Abre a Visão de Tarefas|
+|:fontawesome-brands-windows:{ .windows } + ++ctrl++ + ++d++|Cria uma nova Área de Trabalho virtua|
+|:fontawesome-brands-windows:{ .windows } + ++ctrl++ + ++f4++|Fecha a Área de Trabalho virtual atual|
 
 
 
