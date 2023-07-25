@@ -10,9 +10,7 @@ A Assistência Rápida é um aplicativo da Microsoft Store que permite que uma p
 
 ![acessar](../assets/images/assistencia-rapida-acessar.png#center)
 
-{==
-Nota: caso não localize na pesquisa, siga os passos abaixo para instalar a Assistência Rápida.
-==}
+```Nota: caso não localize na pesquisa, siga os passos abaixo para instalar a Assistência Rápida.```
 
 ## Instalar Assistência Rápida
 
