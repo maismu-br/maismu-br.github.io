@@ -17,3 +17,11 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |------|---------|
 |:fontawesome-brands-windows:{ .windows }|Abre e fecha o menu Iniciar.|
 |:fontawesome-brands-windows:{ .windows } + ++x++|Abre o conteúdo avançado do menu Iniciar no canto inferior esquerdo da tela.|
+|:fontawesome-brands-windows:{ .windows } + ++n++|Inicia a enésima aplicação na Barra de Tarefas. Exemplo: :fontawesome-brands-windows:{ .windows }+1 inicia a primeira aplicação na Barra de Tarefas|
+|:fontawesome-brands-windows:{ .windows } + ++d++|Alterna entre Exibir Área de Trabalho (oculta/exibe quaisquer aplicações e outras janelas) e o estado anterior|
+|:fontawesome-brands-windows:{ .windows } + ++l++|Bloqueia a Área de Trabalho e vai para a Tela de Bloqueio|
+|:fontawesome-brands-windows:{ .windows } + ++m++|Alterna para a Área de Trabalho e minimiza todas as janelas abertas.|
+|:fontawesome-brands-windows:{ .windows } + ++t++|Alterna entre os aplicativos da Barra de Tarefas.|
+|:fontawesome-brands-windows:{ .windows } + ++v++|Alterna entre as notificações|
+|:fontawesome-brands-windows:{ .windows } + ++,++|Dá uma espiada na Área de Trabalho.|
+|:fontawesome-brands-windows:{ .windows } + :arrow-left:{ .arrow } |Dá uma espiada na Área de Trabalho.|
