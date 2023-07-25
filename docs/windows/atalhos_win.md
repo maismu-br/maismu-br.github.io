@@ -26,3 +26,6 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 
 :fontawesome-regular-arrow-left:
 :fontawesome-regular-arrow:
+++arrow-left++
+++arrowleft++
+++arrow++
