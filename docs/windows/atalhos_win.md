@@ -26,8 +26,9 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 
 :fontawesome-regular-arrow-left:
 :fontawesome-regular-arrow:
-++arrow-left++
-++arrowleft++
-++arrow++
-++enter++
-++alt++
+:fontawesome-brands-windows:{ .windows } + ++arrow-left++ sadasdas
+:fontawesome-brands-windows:{ .windows } + ++arrowleft++ gfgffg
+:fontawesome-brands-windows:{ .windows } + ++arrow++ hghjjhgj
+:fontawesome-brands-windows:{ .windows } + ++enter++ jhgjghj
+:fontawesome-brands-windows:{ .windows } + ++alt++ hjgjghj
+:fontawesome-brands-windows:{ .windows } + ++comma++ hjgjghj
