@@ -29,3 +29,5 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 ++arrow-left++
 ++arrowleft++
 ++arrow++
+++enter++
+++alt++
