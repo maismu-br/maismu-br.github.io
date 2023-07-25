@@ -36,6 +36,9 @@ O Windows sempre contou com um grande conjunto teclas de atalho, que permitem ao
 |:fontawesome-brands-windows:{ .windows } + ++tab++|Abre a Visão de Tarefas|
 |:fontawesome-brands-windows:{ .windows } + ++ctrl++ + ++d++|Cria uma nova Área de Trabalho virtua|
 |:fontawesome-brands-windows:{ .windows } + ++ctrl++ + ++f4++|Fecha a Área de Trabalho virtual atual|
+|:fontawesome-brands-windows:{ .windows } + ++ctrl++ + ++arrow-left++|Alterna para a Área de Trabalho anterior.|
+|:fontawesome-brands-windows:{ .windows } + ++ctrl++ + ++arrow-right++|Alterna para a próxima Área de Trabalho.|
+|:fontawesome-brands-windows:{ .windows } + ++space++|Alterna o idioma de entrada e o leiaute de teclado|
 
 
 
