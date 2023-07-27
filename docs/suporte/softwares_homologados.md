@@ -1,6 +1,6 @@
 # Softwares Homologados
 
-Frequentemente o suporte ao usuário de TI da Mais Mu recebe solicitações para instalação de softwares aplicativos nas estações de trabalho, mas nem sempre é possível instalar tais softwares por questões de licenciamento, compatibilidade, segurança ou aplicabilidade às atividades da Agência. Antes de instalar qualquer novo software, nós fazemos uma avaliação sobre esses quesitos e os homologa para instalação ou não.
+Frequentemente o suporte ao usuário de TI da Mais Mu recebe solicitações para instalação de softwares aplicativos nas estações de trabalho, mas nem sempre é possível instalar tais softwares por questões de licenciamento, compatibilidade e segurança. Antes de instalar qualquer novo software, nós fazemos uma avaliação sobre esses quesitos e os homologa para instalação ou não.
 
 ## Quesitos avaliados
 
