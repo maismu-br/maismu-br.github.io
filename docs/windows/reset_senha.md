@@ -14,7 +14,7 @@ Neste guia aprenderemos como alterar a senha do usuário no Windows 10.
 
 3. Na tela seguinte (Alterar uma senha), **digite a senha antiga** na primeira caixa de texto, em seguida, **digite a nova senha** e repita o processo digitando novamente a nova senha para confirmar, agora **clique no botão** com uma **setinha indicando para direita** ou pressione a tecla **Enter**.
 
-![senha1](/assets/images/mudar-a-senha-do-windows-10.gif#center)
+![senha1](/assets/images/mudar-a-senha-do-windows-10.gif.png#center)
 
 4. Aguarde até aparecer a mensagem: **A senha foi alterada** e clique no botão **OK** para voltar à área de trabalho.
 
