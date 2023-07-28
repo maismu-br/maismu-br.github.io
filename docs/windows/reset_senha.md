@@ -18,6 +18,6 @@ Neste guia aprenderemos como alterar a senha do usuário no Windows.
 
 4. Aguarde até aparecer a mensagem: **A senha foi alterada** e clique no botão **OK** para voltar à área de trabalho.
 
-![senhaalterada](/assets/images/senha-do-windows-10-alterada.png#center)
+![alterada](/assets/images/senha-do-windows-10-alterada.png#center)
 
 Pronto, com esses passos, você mudou a senha de sua conta local no Windows. Existem diversos outros modos de realizar essa alteração, porém ensinamos aqui o método mais fácil.
