@@ -18,8 +18,8 @@ nav:
         - Início: index.md
         - Dicas e Truques:
                 - Alterar a senha do Windows: dicas&truques/reset_senha.md
-                - Alterar a senha do Google:
-                - Alterar a senha do office/PBI:
+        #       - Alterar a senha do Google:
+        #       - Alterar a senha do office/PBI:
                 - Atalhos do Windows 10: dicas&truques/atalhos_win.md
         - Suporte:
                 - Softwares Homologados: suporte/softwares_homologados.md
