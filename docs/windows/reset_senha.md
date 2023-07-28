@@ -1,6 +1,6 @@
-# Altere a senha do Windows
+# Altere a senha do Windows 10
 
-Neste guia aprenderemos como alterar a senha do usuário no Windows.
+Neste guia aprenderemos como alterar a senha do usuário no Windows 10.
 
 ```Nota: É preciso que tenha em mente a senha atual para seguir, caso tenha esquecido, entre em contato com o time de TI para redefini-la.```
 
@@ -20,4 +20,4 @@ Neste guia aprenderemos como alterar a senha do usuário no Windows.
 
 ![alterada](/assets/images/senha-do-windows-10-alterada.png#center)
 
-Pronto, com esses passos, você mudou a senha de sua conta local no Windows. Existem diversos outros modos de realizar essa alteração, porém ensinamos aqui o método mais fácil.
+Pronto, com esses passos, você mudou a senha de sua conta local no Windows 10. Existem diversos outros modos de realizar essa alteração, porém ensinamos aqui o método mais fácil.
