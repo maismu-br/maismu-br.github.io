@@ -2,7 +2,7 @@
 
 Neste guia aprenderemos como alterar a senha do usuário no Windows.
 
-```Nota: para alterá-la, é preciso que tenha em mente a senha atual. Caso tenha esquecido, entre em contato com o time de TI para refefini-la.```
+```Nota: É preciso que tenha em mente a senha atual para seguir, caso tenha esquecido, entre em contato com o time de TI para redefini-la.```
 
 ### Alterando a senha
 
