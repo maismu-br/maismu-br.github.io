@@ -17,17 +17,16 @@ copyright: © 2023 Company - Todos os direitos reservados
 nav:
         - Início: index.md
         - Dicas e Truques:
-                - Alterar a senha do Windows: dicas&truques/reset_senha.md
-        #       - Alterar a senha do Google:
-        #       - Alterar a senha do office/PBI:
+                - Alterar Senhas:
+                        - Alterar Senha do Windows: dicas&truques/reset_senhas/reset_senha.windows.md
                 - Atalhos do Windows 10: dicas&truques/atalhos_win.md
         - Suporte:
                 - Softwares Homologados: suporte/softwares_homologados.md
                 - Assistência Rápida: suporte/assistencia_rap.md
         - Hardware:
-                - Formatando equipamento: hardware/formatacao.md
+                - Formatando Equipamento: hardware/formatacao.md
         - Microsoft Office:
-                - Guias rápidos do Office 365: office/guias_rapidos.md
+                - Guias Rápidos do Office 365: office/guias_rapidos.md
         #- Menu exemplo:
         #        Submenu exemplo: suporte/faq.md
         #- Ajuda: sobre.md
