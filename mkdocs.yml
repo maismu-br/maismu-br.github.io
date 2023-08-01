@@ -19,6 +19,8 @@ nav:
         - Dicas e Truques:
                 - Alterar Senhas:
                         - Alterar Senha do Windows: dicas&truques/reset_senhas/reset_senha.windows.md
+                        - Alterar Senha do Office:
+                        - Alterar Senha do E-mail e Drive:
                 - Atalhos do Windows 10: dicas&truques/atalhos_win.md
         - Suporte:
                 - Softwares Homologados: suporte/softwares_homologados.md
