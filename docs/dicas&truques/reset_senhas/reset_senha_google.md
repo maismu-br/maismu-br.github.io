@@ -6,7 +6,7 @@ Neste guia aprenderemos como alterar a senha Google, onde acessamos o Gmail e o 
 
 ### Alterando a senha
 
-1. Abra o **Gerenciar sua Conta do Google**, que pode ser acessada na página inicial do Google ou dentro do Gmail.
+1. Abra o **Gerenciar sua Conta do Google**, que pode ser acessado na página inicial do Google ou dentro do Gmail.
 
 ![passo1](/assets/images/senha_google_passo_1.jpg#center)
 
