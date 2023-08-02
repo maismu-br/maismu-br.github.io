@@ -18,10 +18,10 @@ nav:
         - Início: index.md
         - Dicas e Truques:
                 - Alterar Senhas:
-                        - Alterar Senha do Windows: dicas&truques/reset_senhas/reset_senha.windows.md
+                        - Alterar Senha do Windows: dicas-truques/reset_senhas/reset_senha.windows.md
                         - Alterar Senha do Office:
-                        - Alterar Senha do E-mail e Drive: dicas&truques/reset_senhas/reset_senha_google.md
-                - Atalhos do Windows 10: dicas&truques/atalhos_win.md
+                        - Alterar Senha do E-mail e Drive: dicas-truques/reset_senhas/reset_senha_google.md
+                - Atalhos do Windows 10: dicas-truques/atalhos_win.md
         - Suporte:
                 - Softwares Homologados: suporte/softwares_homologados.md
                 - Assistência Rápida: suporte/assistencia_rap.md
