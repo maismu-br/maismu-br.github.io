@@ -131,3 +131,38 @@ Para adicionar um arquivo, na conversa do seu canal, clique no ícone Arquivos +
 img13
 img14
 
+Você pode ver todos os arquivos que postou em um canal a qualquer momento. Basta acessar a guia Arquivos.
+
+#### Compartilhe arquivos com convidado externo
+
+Quando um colaborador externo acessa uma equipe do Teams, ele não possui acesso aos arquivos daquela equipe, somente ao chat. Os arquivos são armazenados em um site vinculado ao SharePoint e a configuração do SharePoint só permite acesso aos arquivos após compartilhamento específico com cada usuário externo. Assim, antes de compartilhar via SharePoint, o acesso através de um link não funciona.
+
+Ou seja, além de convidar o usuário externo pra equipe, é necessário também compartilhar cada pasta ou arquivo da equipe no SharePoint Online com esse usuário externo. Isso acontece pois o acesso ao Teams é diferente do acesso ao SharePoint e também porque não permitimos acesso anônimo a arquivos do SharePoint.
+
+Desse modo, é necessário que o proprietário da equipe abra o site do SharePoint vinculado à equipe e compartilhe a pasta do canal ou equipe, ou mesmo o arquivo específico, com o usuário externo.
+
+Para conceder acesso a arquivos e pastas de uma equipe para um participante externo, execute esses passos:
+
+*1.* No alto da página da sua equipe ou canal, clique na aba **Arquivos**, ao lado da aba **Postagens**.
+
+*2.* Na barra superior, clique em **Abrir no SharePoint**. Uma página no SharePoint Online se abrirá em seu navegador.
+
+img15
+
+*3.* Para conceder o acesso a todos os arquivos de uma equipe para um participante externo, clique em **Compartilhar**, na barra superior da página do SharePoint.
+
+img16
+
+Por outro lado, para conceder o acesso a um arquivo ou pasta específicos, localize o arquivo ou pasta desejados, clique com o botão direito e escolha **Compartilhar**.
+
+img17
+
+*4.* Primeiro você precisa alterar o modo de compartilhamento, que inicialmente é só para usuários da própria Maismu. Clique no botão com o texto As pessoas na Maismu com o link podem exibir e mude para a opção Especificar pessoas. Você também pode ativar a opção Permitir edição, se assim o desejar. A seguir, clique em Aplicar.
+
+img18
+
+*5.* Agora, vá digitando, um a um, os endereços de e-mail dos participantes externos aos quais deseja dar acesso. Por fim, clique em **Enviar**.
+
+img19
+
+Pronto. Todas as pastas de sua equipe já estão compartilhadas com os usuários externos. A essa altura, os participantes externos devem ter recebido um e-mail contendo as instruções de acesso.
