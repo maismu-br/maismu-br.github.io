@@ -16,17 +16,18 @@ copyright: © 2023 Company - Todos os direitos reservados
 # Page tree
 nav:
         - Início: index.md
+        - Suporte:
+                - Softwares Homologados: suporte/softwares_homologados.md
+                - Assistência Rápida: suporte/assistencia_rap.md
         - Dicas e Truques:
                 - Alterar Senhas:
                         - Alterar Senha do Windows: dicas-truques/reset_senhas/reset_senha.windows.md
                         - Alterar Senha do Office: dicas-truques/reset_senhas/reset_senha_office.md
                         - Alterar Senha do Google: dicas-truques/reset_senhas/reset_senha_google.md
                 - Atalhos do Windows 10: dicas-truques/atalhos_win.md
-        - Suporte:
-                - Softwares Homologados: suporte/softwares_homologados.md
-                - Assistência Rápida: suporte/assistencia_rap.md
         - Microsoft Office:
                 - Guias Rápidos do Office 365: office/guias_rapidos.md
+                - Guia Microsoft Teams: office/microsoft_teams.md
         - Hardware:
                 - Formatando Equipamento: hardware/formatacao.md
         #- Menu exemplo:
