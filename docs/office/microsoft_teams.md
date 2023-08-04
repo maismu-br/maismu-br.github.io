@@ -4,7 +4,7 @@
 
 O Microsoft Teams é uma plataforma completa de comunicação e colaboração, contando com uma diversidade de módulos e recursos. Nas seções abaixo você terá orientações rápidas sobre as principais funcionalidades do Microsoft Teams que já estão liberadas para uso.
 
-img1
+![img1](/assets/images/teams_01.png#center)
 
 ## Crie uma equipe
 
@@ -16,7 +16,7 @@ Selecione Criar equipe para criar uma nova equipe. Por padrão, a equipe é Priv
 
 Você pode adicionar pessoas, grupos ou até grupos de contatos inteiros.
 
-img2
+![img2](/assets/images/teams_02.png#center)
 
 ## Crie um canal
 
@@ -28,7 +28,7 @@ Introduza um nome e uma descrição para o canal. Você pode criar um canal base
 
 Selecione **Tornar este canal favorito para toda a equipe**, se desejar que o canal fique automaticamente visível na lista de canais de todos.
 
-img3
+![img3](/assets/images/teams_03.png#center)
 
 ## Descubra equipes e canais
 
@@ -36,13 +36,13 @@ Uma **equipe** é um conjunto de pessoas, conversas, arquivos e ferramentas — 
 
 As equipes das quais você faz parte estão disponíveis no ícone **Equipes**
 
-img4
+![img4](/assets/images/teams_04.png#center)
 
 ## Adicione membros a uma equipe
 
 Na lista de equipes, vá para o nome de equipe e selecione o ícone Mais opções Ícone **Mais opções > Adicionar membros**. Digite o nome ou endereço de e-mail de alguém que você deseja adicionar e selecione **Adicionar**.
 
-img5
+![img5](/assets/images/teams_05.png#center)
 
 ## Inicie uma conversa com uma pessoa ou um grupo
 
@@ -50,7 +50,7 @@ Para conversar com toda uma equipe, clique em **Equipes**, escolha uma equipe e 
 
 Para conversar com apenas uma pessoa, na parte superior do aplicativo, clique em Novo chat. No campo Para, digite o nome da pessoa ou das pessoas com quem deseja conversar. Na caixa de texto, digite o que você quer dizer e pressione ++enter++ ou clique no ícone Enviar Ícone enviar
 
-img6
+![img6](/assets/images/teams_06.png#center)
 
 ## Responda a uma conversa
 
@@ -58,7 +58,7 @@ As conversas nos canais são organizadas por data e depois encadeadas. As respos
 
 Localize o tópico de conversação ao qual pretende responder. Clique em **Responder**, adicione sua mensagem e e pressione ++Enter++ ou clique no ícone Enviar Ícone enviar.
 
-img7
+![img7](/assets/images/teams_07.png#center)
 
 ## Mencione alguém
 
@@ -68,31 +68,31 @@ Na caixa **Responder ou Nova Conversa**, digite o símbolo @ e digite as primeir
 
 O símbolo @ é exibido na mensagem do Canal e no ícone da Equipe das pessoas mencionadas. Verifique o ícone da sua Equipe para ver se alguém o mencionou.
 
-img8
+![img8](/assets/images/teams_08.png#center)
 
 ## Faça uma videoconferência
 
 Transforme uma conversa em uma reunião com alguns cliques. Adicione áudio, vídeo e compartilhe sua tela.
 
-img9
+![img9](/assets/images/teams_09.png#center)
 
 ### Iniciar uma reunião
 
-1. Para iniciar a reunião, execute um dos seguintes procedimentos:
+*1.* Para iniciar a reunião, execute um dos seguintes procedimentos:
 
     Selecione o ícone **Reunir agora** Ícone reunir agora em uma nova conversa; ou
 
     Selecione o ícone **Reunir agora** Ícone reunir agora em uma conversa existente para manter o contexto de toda a conversa.
 
-2. Na visualização de vídeo, insira um nome para a reunião e selecione **Reunir-se Agora**.
+*2.* Na visualização de vídeo, insira um nome para a reunião e selecione **Reunir-se Agora**.
 
-3. Selecione os nomes dos membros da equipe que você deseja convidar para a reunião. Também é possível digitar um número de telefone; essa é uma ótima forma de adicionar pessoas externas à organização, que não usam o Microsoft Teams.
+*3.* Selecione os nomes dos membros da equipe que você deseja convidar para a reunião. Também é possível digitar um número de telefone; essa é uma ótima forma de adicionar pessoas externas à organização, que não usam o Microsoft Teams.
 
 ### Ingressar em uma reunião
 
-1. Procure o ícone de **Notificação de reunião** Ícone reunir agora em uma conversa para encontrar uma reunião.
+*1.* Procure o ícone de **Notificação de reunião** Ícone reunir agora em uma conversa para encontrar uma reunião.
 
-2. Selecione **Ingressar** para participar da reunião.
+*2.* Selecione **Ingressar** para participar da reunião.
 
 ### Compartilhar conteúdo
 
@@ -104,7 +104,7 @@ Selecione o ícone de Mais opções **Ícone mais opções** ++°°°++ para gra
 
 Clique no ícone **Figurinhas** sob a caixa onde você digita a sua mensagem, escolha um meme ou adesivo de uma das categorias. Você também pode adicionar **Emojis** e **GIFs** animados.
 
-img10
+![img10](/assets/images/teams_10.png#center)
 
 ### Mantenha-se atualizado sobre as Atividades e Notificações
 
@@ -112,7 +112,7 @@ Você pode ver facilmente quando alguém o **menciona**, as curtidas de suas pub
 
 Selecione o ícone **Atividade**. Para visualizar as conversas que se aplicam a você, selecione **Notificações**. Selecione **Recentes** para visualizar as conversas atualizadas da Equipe.
 
-img11
+![img11](/assets/images/teams_11.png#center)
 
 ### Pesquise por mensagens, pessoas ou arquivos
 
@@ -120,7 +120,7 @@ Digite uma frase na caixa Pesquisa. Selecione Mensagens, Pessoas ou Arquivos.
 
 Selecione o item nos resultados da pesquisa. Você também pode clicar no ícone **Filtro** para classificar ou filtrar os resultados da pesquisa.
 
-img12
+![img12](/assets/images/teams_12.png#center)
 
 ### Compartilhe arquivos com equipe interna
 
@@ -128,8 +128,8 @@ O Microsoft Teams funciona muito bem com documentos do Microsoft Office e compar
 
 Para adicionar um arquivo, na conversa do seu canal, clique no ícone Arquivos ++anexo++ , abaixo da caixa de texto. Selecione um arquivo, clique em **Abrir** e em **Enviar**.
 
-img13
-img14
+![img13](/assets/images/teams_13.png#center)
+![img14](/assets/images/teams_14.png#center)
 
 Você pode ver todos os arquivos que postou em um canal a qualquer momento. Basta acessar a guia Arquivos.
 
@@ -147,22 +147,22 @@ Para conceder acesso a arquivos e pastas de uma equipe para um participante exte
 
 *2.* Na barra superior, clique em **Abrir no SharePoint**. Uma página no SharePoint Online se abrirá em seu navegador.
 
-img15
+![img15](/assets/images/teams_15.png#center)
 
 *3.* Para conceder o acesso a todos os arquivos de uma equipe para um participante externo, clique em **Compartilhar**, na barra superior da página do SharePoint.
 
-img16
+![img16](/assets/images/teams_16.png#center)
 
 Por outro lado, para conceder o acesso a um arquivo ou pasta específicos, localize o arquivo ou pasta desejados, clique com o botão direito e escolha **Compartilhar**.
 
-img17
+![img17](/assets/images/teams_17.png#center)
 
 *4.* Primeiro você precisa alterar o modo de compartilhamento, que inicialmente é só para usuários da própria Maismu. Clique no botão com o texto As pessoas na Maismu com o link podem exibir e mude para a opção Especificar pessoas. Você também pode ativar a opção Permitir edição, se assim o desejar. A seguir, clique em Aplicar.
 
-img18
+![img18](/assets/images/teams_18.png#center)
 
 *5.* Agora, vá digitando, um a um, os endereços de e-mail dos participantes externos aos quais deseja dar acesso. Por fim, clique em **Enviar**.
 
-img19
+![img19](/assets/images/teams_19.png#center)
 
 Pronto. Todas as pastas de sua equipe já estão compartilhadas com os usuários externos. A essa altura, os participantes externos devem ter recebido um e-mail contendo as instruções de acesso.
