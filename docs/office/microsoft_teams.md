@@ -60,13 +60,13 @@ Localize o tópico de conversação ao qual pretende responder. Clique em **Resp
 
 img7
 
-## @mencione alguém
+## Mencione alguém
 
 Caso queira que uma pessoa receba uma notificação de uma mensagem que está enviando, você poderá **@mencioná-la**. É possível mencionar um canal, uma equipe, uma pessoa ou diversas pessoas.
 
-Na caixa **Responder ou Nova Conversa**, digite o símbolo @ e digite as primeiras letras do primeiro nome da pessoa. Na caixa **Sugestões**, selecione a pessoa. Repita para todas as pessoas que deseja **@mencionar**.
+Na caixa **Responder ou Nova Conversa**, digite o símbolo @ e digite as primeiras letras do primeiro nome da pessoa. Na caixa **Sugestões**, selecione a pessoa. Repita para todas as pessoas que deseja mencionar.
 
-O símbolo @ é exibido na mensagem do Canal e no ícone da Equipe das pessoas mencionadas. Verifique o ícone da sua Equipe para ver se alguém o **@mencionou**.
+O símbolo @ é exibido na mensagem do Canal e no ícone da Equipe das pessoas mencionadas. Verifique o ícone da sua Equipe para ver se alguém o mencionou.
 
 img8
 
