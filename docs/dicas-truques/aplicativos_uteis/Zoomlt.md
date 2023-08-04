@@ -39,7 +39,6 @@ ZoomIt oferece uma série de atalhos que podem estender muito seu uso.
 |Caneta rosa| ++p++|
 |Desenhar uma linha reta| Manter Clique|
 |Desenhar um retângulo| Manter ++ctrl++|
-|Desenhar uma elipse| Guia Segurar|
 |Desenhar uma seta| Manter ++ctrl++ + ++shift++|
 |Apagar Último Desenho| ++ctrl++ + ++z++|
 |Apagar todos os desenhos| ++e++|
@@ -56,5 +55,5 @@ ZoomIt oferece uma série de atalhos que podem estender muito seu uso.
 |Tempo de Aumento/Redução| ++ctrl++ + Rolagem do mouse para cima/para baixo ou teclas de direção|
 |Minimizar o temporizador (sem pausar)| ++alt++ + ++tab++|
 |Mostrar Temporizador Quando Minimizado| Clique Esquedo do Mouse no ícone ZoomIt|
-|Modo de Zoom Dinâmico| ++ctrl++ + 4|
-|Fechar| ++Esc++ ou Clique Direito do Mouse|
+|Modo de Zoom Dinâmico| ++ctrl++ + ++4++|
+|Fechar| ++esc++ ou Clique Direito do Mouse|
