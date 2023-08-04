@@ -24,6 +24,9 @@ nav:
                         - Alterar Senha do Windows: dicas-truques/reset_senhas/reset_senha.windows.md
                         - Alterar Senha do Office: dicas-truques/reset_senhas/reset_senha_office.md
                         - Alterar Senha do Google: dicas-truques/reset_senhas/reset_senha_google.md
+                - Aplicativos Úteis:
+                        - ZoomLT: dicas-truques/aplicativos_uteis/Zoomlt.md
+                        - Fast Stone: dicas-truques/aplicativos_uteis/FastStone.md
                 - Atalhos do Windows 10: dicas-truques/atalhos_win.md
         - Microsoft Office:
                 - Guias Rápidos do Office 365: office/guias_rapidos.md

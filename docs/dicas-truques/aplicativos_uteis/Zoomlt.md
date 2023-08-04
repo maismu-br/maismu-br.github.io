@@ -22,4 +22,17 @@ ZoomIt oferece uma série de atalhos que podem estender muito seu uso.
 |Iniciar desenho (enquanto não estiver no modo zoom)| 	++ctrl++ + ++2++ |
 |Aumentar/diminuir o tamanho da linha e do cursor (modo de desenho)| ++ctrl++ + Rolagem do mouse para cima/para baixo ou teclas de direção|
 |Centralizar o cursor (modo de desenho)| ++space++|
-|Quadro de comunicações (modo de desenho)| ++w++
+|Quadro de comunicações (modo de desenho)| ++w++|
+|Quadro negro (modo de desenho)| ++k++|
+|Digite Texto (Alinhado à Esquerda)| ++t++|
+|Digite Texto (Alinhado à Direita)| ++shift++ + ++t++|
+|Aumentar/diminuir o tamanho da fonte (modo de digitação)| ++ctrl++ + Rolagem do mouse para cima/para baixo ou teclas de direção|
+|Caneta vermelha| ++r6++|
+|Caneta verde| ++g++|
+|Caneta azul| ++b++|
+|Caneta amarela| ++s++|
+|Caneta Laranja| ++o++|
+|Caneta rosa| ++p++|
+|Desenhar uma linha reta| Manter Clique|
+|Desenhar um retângulo| Manter ++ctrl++|
+
