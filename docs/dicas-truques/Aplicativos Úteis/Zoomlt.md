@@ -14,8 +14,12 @@ ZoomIt oferece uma série de atalhos que podem estender muito seu uso.
 
 |Função|Atalho|
 |------|------|
-|Modo zoom | ++Ctrl++ + 1|
+|Modo zoom | ++Ctrl++ + ++1++ |
 |Ampliar | Rolagem do mouse para cima ou seta para cima|
 |Reduzir| Rolagem do mouse para baixo ou seta para baixo|
-|niciar desenho (enquanto estiver no modo zoom)| ++Left-Click++ |
-|
+|Iniciar desenho (enquanto estiver no modo zoom)| ++left-click++ |
+|Parar desenho (enquanto estiver no modo zoom)| ++right-click++ |
+|Iniciar desenho (enquanto não estiver no modo zoom)| 	++ctrl++ + ++2++ |
+|Aumentar/diminuir o tamanho da linha e do cursor (modo de desenho)| ++ctrl++ + Rolagem do mouse para cima/para baixo ou teclas de direção|
+|Centralizar o cursor (modo de desenho)| ++space++|
+|Quadro de comunicações (modo de desenho)| ++w++
