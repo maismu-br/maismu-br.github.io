@@ -47,6 +47,14 @@ Ainda não conhece o Microsoft OneNote? Use este guia para aprender o básico.
 :fontawesome-regular-file-pdf: [Guia rápido do OneNote (.PDF)](pdf/Onenote2016QuickStartGuide-MicrosoftCorporation.pdf){:target="_blank"}
 <br /><br />
 
+## Guia rápido do Teams
+
+![teams](../assets/images/office365/teams.png){align=left}
+Ainda não conhece o Microsoft Teams? Use este guia para aprender o básico.
+
+:fontawesome-regular-file-pdf:[Guia rápido do OneDrive (.PDF)](pdf/Teams_microsoft.pdf){:target="_blank"}
+<br /><br />
+
 ## Guia rápido do OneDrive
 
 ![onedrive](../assets/images/office365/onedrive-1.png){align=left}

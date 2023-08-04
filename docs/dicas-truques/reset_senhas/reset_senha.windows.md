@@ -21,15 +21,3 @@ Neste guia aprenderemos como alterar a senha do usuário no Windows.
 ![alterada](/assets/images/senha-do-windows-10-alterada.png#center)
 
 Pronto, com esses passos, você mudou a senha de sua conta local no Windows. Existem diversos outros modos de realizar essa alteração, porém ensinamos aqui o método mais fácil.
-
-# Altere a senha do Google (drive/e-mail)
-
-**1.** Abra sua Conta do Google. Talvez você precise fazer login.
-
-**2.** Em "Segurança", selecione Como fazer login no Google.
-
-**3.** Selecione Senha. Talvez você precise fazer login de novo.
-
-**4.** Digite sua nova senha e selecione Alterar senha.
-
-
