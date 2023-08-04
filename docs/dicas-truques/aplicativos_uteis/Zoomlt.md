@@ -4,7 +4,7 @@ ZoomIt é uma ferramenta de zoom, anotação e gravação de tela para apresenta
 
 ## Usando ZoomIt
 
-!!! note warning "O ZoomIt funciona como executável, siga o caminho abaixo sempre que quiser utiliza-lo"
+!!! note warning "O ZoomIt funciona como executável, siga o caminho abaixo sempre que quiser utiliza-lo."
 
     Drive compartilhado > 15. MAIS MU - INTERNO > TI > ZoomIt > ZoomIt (clique 2x para executar).
 
