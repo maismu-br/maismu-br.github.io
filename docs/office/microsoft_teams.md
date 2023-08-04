@@ -56,7 +56,7 @@ Para conversar com apenas uma pessoa, na parte superior do aplicativo, clique em
 
 As conversas nos canais são organizadas por data e depois encadeadas. As respostas nas conversas são organizadas abaixo da postagem inicial, assim fica mais fácil seguir várias conversas.
 
-Localize o tópico de conversação ao qual pretende responder. Clique em **Responder**, adicione sua mensagem e e pressione ++Enter++ ou clique no ícone Enviar Ícone enviar.
+Localize o tópico de conversação ao qual pretende responder. Clique em **Responder**, adicione sua mensagem e e pressione ++enter++ ou clique no ícone Enviar Ícone enviar.
 
 ![img7](/assets/images/teams_07.png#center)
 
@@ -64,9 +64,9 @@ Localize o tópico de conversação ao qual pretende responder. Clique em **Resp
 
 Caso queira que uma pessoa receba uma notificação de uma mensagem que está enviando, você poderá **@mencioná-la**. É possível mencionar um canal, uma equipe, uma pessoa ou diversas pessoas.
 
-Na caixa **Responder ou Nova Conversa**, digite o símbolo @ e digite as primeiras letras do primeiro nome da pessoa. Na caixa **Sugestões**, selecione a pessoa. Repita para todas as pessoas que deseja mencionar.
+Na caixa **Responder ou Nova Conversa**, digite o símbolo **@** e digite as primeiras letras do primeiro nome da pessoa. Na caixa **Sugestões**, selecione a pessoa. Repita para todas as pessoas que deseja mencionar.
 
-O símbolo @ é exibido na mensagem do Canal e no ícone da Equipe das pessoas mencionadas. Verifique o ícone da sua Equipe para ver se alguém o mencionou.
+O símbolo **@** é exibido na mensagem do Canal e no ícone da Equipe das pessoas mencionadas. Verifique o ícone da sua Equipe para ver se alguém o mencionou.
 
 ![img8](/assets/images/teams_08.png#center)
 
@@ -80,9 +80,9 @@ Transforme uma conversa em uma reunião com alguns cliques. Adicione áudio, ví
 
 *1.* Para iniciar a reunião, execute um dos seguintes procedimentos:
 
-    Selecione o ícone **Reunir agora** Ícone reunir agora em uma nova conversa; ou
+ - Selecione o ícone **Reunir agora** Ícone reunir agora em uma nova conversa; ou
 
-    Selecione o ícone **Reunir agora** Ícone reunir agora em uma conversa existente para manter o contexto de toda a conversa.
+ - Selecione o ícone **Reunir agora** Ícone reunir agora em uma conversa existente para manter o contexto de toda a conversa.
 
 *2.* Na visualização de vídeo, insira um nome para a reunião e selecione **Reunir-se Agora**.
 
@@ -96,9 +96,9 @@ Transforme uma conversa em uma reunião com alguns cliques. Adicione áudio, ví
 
 ### Compartilhar conteúdo
 
-Selecione o ícone de **Compartilhamento de tela** para mostrar sua tela aos outros participantes da reunião.
+- Selecione o ícone de **Compartilhamento de tela** para mostrar sua tela aos outros participantes da reunião.
 
-Selecione o ícone de Mais opções **Ícone mais opções** ++°°°++ para gravar a reunião. Você receberá um email quando o vídeo estiver pronto para ser exibido, editado e compartilhado com outras pessoas.
+ - Selecione o ícone de Mais opções **Ícone mais opções** **°°°** para gravar a reunião. Você receberá um email quando o vídeo estiver pronto para ser exibido, editado e compartilhado com outras pessoas.
 
 ### Emojis, GIFs e memes
 
@@ -126,7 +126,7 @@ Selecione o item nos resultados da pesquisa. Você também pode clicar no ícone
 
 O Microsoft Teams funciona muito bem com documentos do Microsoft Office e compartilhamento de arquivos em geral. Mas, para isso você precisará ter o acesso ao OneDrive liberado.
 
-Para adicionar um arquivo, na conversa do seu canal, clique no ícone Arquivos ++anexo++ , abaixo da caixa de texto. Selecione um arquivo, clique em **Abrir** e em **Enviar**.
+Para adicionar um arquivo, na conversa do seu canal, clique no ícone Arquivos anexo , abaixo da caixa de texto. Selecione um arquivo, clique em **Abrir** e em **Enviar**.
 
 ![img13](/assets/images/teams_13.png#center)
 ![img14](/assets/images/teams_14.png#center)
