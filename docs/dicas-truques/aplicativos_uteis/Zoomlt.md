@@ -35,4 +35,22 @@ ZoomIt oferece uma série de atalhos que podem estender muito seu uso.
 |Caneta rosa| ++p++|
 |Desenhar uma linha reta| Manter Clique|
 |Desenhar um retângulo| Manter ++ctrl++|
-
+|Desenhar uma elipse| Guia Segurar|
+|Desenhar uma seta| Manter ++ctrl++ + ++shift++|
+|Apagar Último Desenho| ++ctrl++ + ++z++|
+|Apagar todos os desenhos| ++e++|
+|Copiar captura de tela para a área de transferência| ++ctrl++ + ++c++|
+|Cortar captura de tela para a área de transferência| ++ctrl++ + ++shift++ + ++c++|
+|Salvar captura de tela como PNG| ++ctrl++ + ++s++|
+|Salvar captura de tela cortada em um arquivo| ++ctrl++ + ++shift++ + ++s++|
+|Copiar uma região da tela para a área de transferência| ++ctrl++ + ++6++|
+|Salvar uma região da tela em um arquivo| ++ctrl++ + ++shift++ + ++6++|
+|Iniciar/parar gravação em tela inteira salva como MP4 (Atualização de maio de 2019 para o Windows 10 e superior)| ++ctrl++ + ++5++|
+|Gravação de tela de corte salva como MP4 (Atualização de maio de 2019 para o Windows 10 e superior)| ++ctrl++ + ++shift++ + ++5++|
+|Registro de tela Somente a janela em que o cursor do mouse está posicionado sobre salvo como MP4 (Atualização de maio de 2019 para o Windows 10 e superior)| ++ctrl++ + ++alt++ + ++5++|
+|Mostrar Temporizador de Contagem Regressiva| ++ctrl++ + ++3++|
+|Tempo de Aumento/Redução| ++ctrl++ + Rolagem do mouse para cima/para baixo ou teclas de direção|
+|Minimizar o temporizador (sem pausar)| ++alt++ + ++tab++|
+|Mostrar Temporizador Quando Minimizado| Clique Esquedo do Mouse no ícone ZoomIt|
+|Modo de Zoom Dinâmico| ++ctrl++ + 4|
+|Fechar| **Esc** ou Clique Direito do Mouse|
