@@ -1,4 +1,4 @@
-# Altere a senha do Google (Gmail/drive)
+# Altere a senha do Google
 
 Neste guia aprenderemos como alterar a senha Google, onde acessamos o Gmail e o drive.
 
