@@ -106,3 +106,28 @@ Clique no ícone **Figurinhas** sob a caixa onde você digita a sua mensagem, es
 
 img10
 
+### Mantenha-se atualizado sobre as Atividades e Notificações
+
+Você pode ver facilmente quando alguém o **menciona**, as curtidas de suas publicações ou as respostas de uma conversa que você tenha iniciado. Um número é exibido ou adicionado aos ícones **atividade** e **Chat** e o sinal de **@** é exibido no **ícone Equipes**.
+
+Selecione o ícone **Atividade**. Para visualizar as conversas que se aplicam a você, selecione **Notificações**. Selecione **Recentes** para visualizar as conversas atualizadas da Equipe.
+
+img11
+
+### Pesquise por mensagens, pessoas ou arquivos
+
+Digite uma frase na caixa Pesquisa. Selecione Mensagens, Pessoas ou Arquivos.
+
+Selecione o item nos resultados da pesquisa. Você também pode clicar no ícone **Filtro** para classificar ou filtrar os resultados da pesquisa.
+
+img12
+
+### Compartilhe arquivos com equipe interna
+
+O Microsoft Teams funciona muito bem com documentos do Microsoft Office e compartilhamento de arquivos em geral. Mas, para isso você precisará ter o acesso ao OneDrive liberado.
+
+Para adicionar um arquivo, na conversa do seu canal, clique no ícone Arquivos ++anexo++ , abaixo da caixa de texto. Selecione um arquivo, clique em **Abrir** e em **Enviar**.
+
+img13
+img14
+
