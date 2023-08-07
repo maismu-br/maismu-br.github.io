@@ -2,7 +2,7 @@
 
 ZoomIt é uma ferramenta de zoom, anotação e gravação de tela para apresentações técnicas e demonstrações. Você também pode usar ZoomIt para capturar capturas de tela na área de transferência ou em um arquivo. O ZoomIt é executado discretamente na bandeja e é ativado com teclas de acesso personalizáveis para ampliar uma área da tela, mover-se enquanto ampliada e desenhar a imagem ampliada. Escrevi ZoomIt para atender às minhas necessidades específicas e usá-la em todas as minhas apresentações.
 
-## Usando ZoomIt
+## Usando o ZoomIt
 
 !!! note warning "O ZoomIt funciona como executável, siga o caminho abaixo sempre que quiser utiliza-lo."
 
