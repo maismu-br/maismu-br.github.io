@@ -2,7 +2,7 @@
 site_name: Central de Serviços
 site_url: http://maismu-br.github.io/
 site_author: maismu-br
-site_description:
+site_description: >-
   Wiki +Mu - Manuais, procedimentos, guias rápidos e dicas, em um único lugar
 
 # Repository
@@ -30,9 +30,9 @@ nav:
                 - Guia Microsoft Teams: office/microsoft_teams.md
         - Segurança:
                   - Alterar Senhas:
-                        - Alterar Senha do Windows: reset_senhas/reset_senha.windows.md
-                        - Alterar Senha do Office: reset_senhas/reset_senha_office.md
-                        - Alterar Senha do Google: reset_senhas/reset_senha_google.md
+                        - Alterar Senha do Windows: reset-senhas/reset_senha.windows.md
+                        - Alterar Senha do Office: reset-senhas/reset_senha_office.md
+                        - Alterar Senha do Google: reset-senhas/reset_senha_google.md
         - Hardware:
                 - Formatando Equipamento: hardware/formatacao.md
         #- Menu exemplo:
