@@ -21,7 +21,7 @@ nav:
                 - Assistência Rápida: suporte/assistencia_rap.md
         - Dicas e Truques:
                 - Atalhos do Windows 10: dicas-truques/atalhos_win.md
-                - Atalhos do Excel:
+                #- Atalhos do Excel:
                 - Aplicativos Úteis:
                         - Zoomlt: dicas-truques/aplicativos_uteis/Zoomlt.md
                         - FastStone Capture: dicas-truques/aplicativos_uteis/FastStone.md
