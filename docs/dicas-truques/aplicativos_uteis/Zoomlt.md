@@ -8,7 +8,7 @@ ZoomIt é uma ferramenta de zoom, anotação e gravação de tela para apresenta
 
     Drive compartilhado > 15. MAIS MU - INTERNO > TI > ZoomIt > ZoomIt (clique 2x para executar).
 
-    Fique a vontade para fazer uma cópia e deixar na sua área de trabalho.
+    Fique a vontade para fazer uma cópia para sua área de trabalho.
 
 ![zoomlt](/assets/images/ZoomIt_executar.png#center)
 
