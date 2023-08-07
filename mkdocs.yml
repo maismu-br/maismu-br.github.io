@@ -30,7 +30,7 @@ nav:
                 - Guia Microsoft Teams: office/microsoft_teams.md
         - Segurança:
                   - Alterar Senhas:
-                        - Alterar Senha do Windows: reset-senhas/reset_senha.windows.md
+                        - Alterar Senha do Windows: reset-senhas/reset_senha_windows.md
                         - Alterar Senha do Office: reset-senhas/reset_senha_office.md
                         - Alterar Senha do Google: reset-senhas/reset_senha_google.md
         - Hardware:
