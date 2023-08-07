@@ -20,17 +20,19 @@ nav:
                 - Softwares Homologados: suporte/softwares_homologados.md
                 - Assistência Rápida: suporte/assistencia_rap.md
         - Dicas e Truques:
-                - Alterar Senhas:
-                        - Alterar Senha do Windows: dicas-truques/reset_senhas/reset_senha.windows.md
-                        - Alterar Senha do Office: dicas-truques/reset_senhas/reset_senha_office.md
-                        - Alterar Senha do Google: dicas-truques/reset_senhas/reset_senha_google.md
+                - Atalhos do Windows 10: dicas-truques/atalhos_win.md
+                - Atalhos do Excel:
                 - Aplicativos Úteis:
                         - Zoomlt: dicas-truques/aplicativos_uteis/Zoomlt.md
                         - FastStone Capture: dicas-truques/aplicativos_uteis/FastStone.md
-                - Atalhos do Windows 10: dicas-truques/atalhos_win.md
         - Microsoft Office:
                 - Guias Rápidos do Office 365: office/guias_rapidos.md
                 - Guia Microsoft Teams: office/microsoft_teams.md
+        - Segurança:
+                  - Alterar Senhas:
+                        - Alterar Senha do Windows: reset_senhas/reset_senha.windows.md
+                        - Alterar Senha do Office: reset_senhas/reset_senha_office.md
+                        - Alterar Senha do Google: reset_senhas/reset_senha_google.md
         - Hardware:
                 - Formatando Equipamento: hardware/formatacao.md
         #- Menu exemplo:
