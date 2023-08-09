@@ -34,8 +34,8 @@ nav:
                         - Google: seguranca/reset_senha_google.md
                         - Office: seguranca/reset_senha_office.md
                 #- Autenticação Multifator:       
-        - Hardware:
-                - Formatando Equipamento: hardware/formatacao.md
+        #- Hardware:
+                #- Formatando Equipamento: hardware/formatacao.md
         #- Menu exemplo:
         #        Submenu exemplo: suporte/faq.md
         #- Ajuda: sobre.md
