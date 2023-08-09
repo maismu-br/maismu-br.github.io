@@ -6,16 +6,16 @@ Neste guia aprenderemos como alterar a senha do Microsoft Office.
 
 ### Alterando a senha
 
-**1.** Entre em [office.com/signin](https://www.office.com/signin) com sua conta corporativa.
+*1.* Entre em [office.com/signin](https://www.office.com/signin) com sua conta corporativa.
 
-**2.** Vá para Configurações -> Senha -> Alerar sua senha.
+*2.* Vá para Configurações -> Senha -> Alerar sua senha.
 
 ![alterando](/assets/images/office_alterar_senha.png#center)
 
-**3.** Insira sua senha antiga.
+*3.* Insira sua senha antiga.
 
-**4.** Crie uma nova senha e confirme-a.
+*4.* Crie uma nova senha e confirme-a.
 
-**5.** Selecione Enviar para concluir e alterar sua senha.
+*5.* Selecione Enviar para concluir e alterar sua senha.
 
 ![alterandopasso2](/assets/images/office_alterar_senha_2.png#center)
