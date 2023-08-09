@@ -8,7 +8,7 @@ Neste guia aprenderemos como alterar a senha Google, onde acessamos o Gmail e o 
 
 1. Abra o **Gerenciar sua Conta do Google**, que pode ser acessado na página inicial do Google ou dentro do Gmail.
 
-![passo1](/assets/images/senha_google_passo_1.jpg#center)
+![passo1](/assets/images/senha_google_passo_1.png#center)
 
 2. Na parte de cima, clique em **Segurança**.
 
