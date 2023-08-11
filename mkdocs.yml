@@ -30,10 +30,10 @@ nav:
                 - Guia Microsoft Teams: office/microsoft_teams.md
         - Segurança:
                 - Alterar Senha:
-                        - Windows: seguranca/reset_senha_windows.md
-                        - Google: seguranca/reset_senha_google.md
-                        - Office: seguranca/reset_senha_office.md
-                #- Autenticação Multifator:       
+                        - Windows: seguranca/reset-senhas/reset_senha_windows.md
+                        - Google: seguranca/reset-senhas/reset_senha_google.md
+                        - Office: seguranca/reset-senhas/reset_senha_office.md
+                - Autenticação Multifator: seguranca/mfa.md     
         #- Hardware:
                 #- Formatando Equipamento: hardware/formatacao.md
         #- Menu exemplo:
