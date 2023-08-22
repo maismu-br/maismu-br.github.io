@@ -34,4 +34,24 @@ No entanto, se outra pessoa tentar entrar como você, ela inserirá seu nome de 
 
 A segurança extra vem do fato de que alguém que está tentando invadir sua conta provavelmente não está usando seu dispositivo, portanto, precisará ter o segundo fator para entrar. 
 
-**A autenticação multifator não é apenas para trabalho ou escola**. Quase todos os serviços online do seu banco, para seu email pessoal, para suas contas de mídia social suportam adicionar uma segunda etapa de autenticação e você deve ir para as configurações de conta para esses serviços e a ativar. 
+**A autenticação multifator não é apenas para trabalho ou escola**. Quase todos os serviços online do seu banco, para seu email pessoal, para suas contas de mídia social suportam adicionar uma segunda etapa de autenticação e você deve ir para as configurações de conta para esses serviços e a ativar.
+
+# Agora que conhece o MFA, instale em seu dispositivo
+
+Instale a versão mais recente do aplicativo Authenticator, com base em seu sistema operacional:
+
+Google Android. Em seu Android, vá para o Google Play [para baixar e instalar o Authenticator aplicativo](https://app.adjust.com/e3rxkc_7lfdtm?fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.azure.authenticator).
+
+Apple iOS. Em seu dispositivo apple iOS, vá para o App Store [para baixar e instalar o Authenticator aplicativo](https://app.adjust.com/e3rxkc_7lfdtm?fallback=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmicrosoft-authenticator%2Fid983156458).
+
+## Configurarando o aplicativo
+
+Depois de instalar o Authenticator, siga as etapas abaixo para adicionar sua conta:
+
+Abra o Authenticator aplicativo.
+
+Selecione (+) no canto superior direito.
+
+Aponte a câmera para o código QR ou siga as instruções fornecidas nas configurações da conta.
+
+Depois que sua conta aparecer no Authenticator, você poderá usar os códigos de uso único para entrar.
