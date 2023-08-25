@@ -2,7 +2,7 @@
 
 ![pedido0](/assets/images/pedidos_planilha_0.png#center)
 
-## Baixe a planilha
+## Baixe a planilha já com os códigos de todos os produtos.
 
 [Planilha Modelo](/assets/images/Planilha_Importação.xlsx)
 
