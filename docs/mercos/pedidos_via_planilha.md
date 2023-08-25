@@ -4,9 +4,9 @@
 
 ## Baixe a planilha
 
-[Planilha](/assets/images/Planilha_Importação.xlsx)
+[Planilha Modelo](/assets/images/Planilha_Importação.xlsx)
 
-### Como funciona? 
+### Como funciona?
 
 Na área de inserção de itens do pedido você notará a opção: “Adicionar por planilha”.
 
