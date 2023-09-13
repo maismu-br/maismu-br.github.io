@@ -19,6 +19,8 @@ nav:
         - Suporte:
                 - Softwares Homologados: suporte/softwares_homologados.md
                 - Assistência Rápida: suporte/assistencia_rap.md
+        - Backup:
+                - Backup de Arquivos Importantes: backup/google_drive.md
         - Dicas e Truques:
                 - Atalhos do Windows 10: dicas-truques/atalhos_win.md
                 #- Atalhos do Excel:
