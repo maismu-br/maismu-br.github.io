@@ -2,82 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://maismu-br.github.io/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/sobre/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/backup/google_drive/</loc>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/dicas-truques/atalhos_win/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/dicas-truques/aplicativos_uteis/FastStone/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/dicas-truques/aplicativos_uteis/Zoomlt/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/hardware/formatacao/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/mercos/pedidos_via_planilha/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/office/guias_rapidos/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/office/microsoft_teams/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/seguranca/mfa/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/seguranca/reset-senhas/reset_senha_google/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/seguranca/reset-senhas/reset_senha_office/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/seguranca/reset-senhas/reset_senha_windows/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/suporte/assistencia_rap/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/suporte/faq/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://maismu-br.github.io/suporte/softwares_homologados/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
