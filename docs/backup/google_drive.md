@@ -18,7 +18,7 @@ Uma vez que faça backup de todos os dados do Google Drive para seu PC, você po
 ![drive2](/assets/images/drive2.png#center)
 
 
-*2.* Em preferências, clique em "Adicionar pastar" e selecione a paste que deseja configurar o backup.
+*2.* Em preferências, clique em "Adicionar pasta" e selecione a paste que deseja configurar o backup.
 
 ![drive3](/assets/images/drive3.png#center)
 
