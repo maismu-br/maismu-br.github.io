@@ -12,8 +12,6 @@ ZoomIt é uma ferramenta de zoom, anotação e gravação de tela para apresenta
 
 ![zoomlt](/assets/images/ZoomIt_executar.png#center)
 
-Na primeira vez que você executar o ZoomIt ele apresenta uma caixa de diálogo de configuração que descreve o comportamento do ZoomIt, vamos especificar hotkeys alternativas para zoom e para entrar no modo de desenho sem zoom e personalizar a cor e o tamanho da caneta de desenho. Uso a opção desenhar sem zoom para anotar a tela em sua resolução nativa, por exemplo. ZoomIt também inclui um recurso de temporizador de interrupção que permanece ativo mesmo quando você se afasta da janela do temporizador e permite que você retorne à janela do temporizador clicando no ícone da bandeja ZoomIt.
-
 ## Atalhos
 
 ZoomIt oferece uma série de atalhos que podem estender muito seu uso.
