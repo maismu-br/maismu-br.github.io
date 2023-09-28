@@ -32,6 +32,7 @@ nav:
                 - Guia Microsoft Teams: office/microsoft_teams.md
         - Mercos:
                 - Importe Pedidos Por Planilha: mercos/pedidos_via_planilha.md
+                - Aplicativo: mercos/aplicativo_mercos.md
         - Segurança:
                 - Alterar Senha:
                         - Windows: seguranca/reset-senhas/reset_senha_windows.md
