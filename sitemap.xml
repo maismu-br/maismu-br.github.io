@@ -36,7 +36,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/aplicativo_mercos/</loc>
+         <loc>http://maismu-br.github.io/mercos/aplicativo_faturamento/</loc>
+         <lastmod>2023-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/mercos/aplicativo_sincronizar/</loc>
          <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
