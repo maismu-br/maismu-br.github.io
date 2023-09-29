@@ -56,6 +56,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://maismu-br.github.io/mercos/roteiro/</loc>
+         <lastmod>2023-09-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://maismu-br.github.io/office/guias_rapidos/</loc>
          <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
