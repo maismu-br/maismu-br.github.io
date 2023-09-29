@@ -46,6 +46,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://maismu-br.github.io/mercos/indicadores/</loc>
+         <lastmod>2023-09-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://maismu-br.github.io/mercos/pedidos_via_planilha/</loc>
          <lastmod>2023-09-29</lastmod>
          <changefreq>daily</changefreq>
