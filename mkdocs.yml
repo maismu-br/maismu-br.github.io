@@ -32,10 +32,12 @@ nav:
                 - Guia Microsoft Teams: office/microsoft_teams.md
         - Mercos:
                 - Primeiro Acesso: mercos/primeiro_acesso.md
-                - Criar Roteiro: mercos/roteiro.md
-                - Importe Pedidos Por Planilha: mercos/pedidos_via_planilha.md
+                - Criando Roteiro: mercos/roteiro.md
+                - Importe Pedidos por Planilha: mercos/pedidos_via_planilha.md
+                - Indicadores:
+                        - Evolução de Vendas: 
                 - Aplicativo:
-                        - Enviando Pedidos Para Faturamento: mercos/aplicativo_faturamento.md
+                        - Enviando Pedidos para Faturamento: mercos/aplicativo_faturamento.md
                         - Sincronização: mercos/aplicativo_sincronizar.md
         - Segurança:
                 - Alterar Senha:
