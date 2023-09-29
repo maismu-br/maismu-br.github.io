@@ -34,8 +34,7 @@ nav:
                 - Primeiro Acesso: mercos/primeiro_acesso.md
                 - Criando Roteiro: mercos/roteiro.md
                 - Importe Pedidos por Planilha: mercos/pedidos_via_planilha.md
-                - Indicadores:
-                        - Evolução de Vendas: 
+               # - Indicadores:
                 - Aplicativo:
                         - Enviando Pedidos para Faturamento: mercos/aplicativo_faturamento.md
                         - Sincronização: mercos/aplicativo_sincronizar.md
