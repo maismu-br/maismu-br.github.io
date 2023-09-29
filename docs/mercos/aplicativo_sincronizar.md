@@ -1,4 +1,4 @@
-# Sincronização Do Aplicativo
+# Sincronização do aplicativo
 
 ### O que é a Sincronização?
 

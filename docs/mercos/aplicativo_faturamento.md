@@ -1,4 +1,4 @@
-# Enviando Pedidos Para Faturamento
+# Enviando pedidos para faturamento
 
 O aplicativo Mercos funciona também sem conexão a internet, ou seja, permite a emissão de pedidos sem estar em uma rede 3g, 4g ou wifi, é necessário que em algum momento do dia os pedidos emitidos nesse período sem conexão sejam enviados para o sistema online. Se seu pedido ainda não aparece no sistema veja como fazer o envio:
 

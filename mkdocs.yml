@@ -33,6 +33,7 @@ nav:
         - Mercos:
                 - Importe Pedidos Por Planilha: mercos/pedidos_via_planilha.md
                 - Aplicativo:
+                        - Primeiro Acesso: mercos/primeiro_acesso.md
                         - Enviando Pedidos Para Faturamento: mercos/aplicativo_faturamento.md
                         - Sincronização: mercos/aplicativo_sincronizar.md
         - Segurança:
