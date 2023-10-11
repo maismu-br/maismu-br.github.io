@@ -16,40 +16,40 @@ copyright: © 2023 Company - Todos os direitos reservados
 # Page tree
 nav:
         - Início: index.md
-        - TI:                      
-                - Suporte:
-                        - Softwares Homologados: suporte/softwares_homologados.md
-                        - Assistência Rápida: suporte/assistencia_rap.md
-                - Backup:
-                        - Backup de Arquivos Importantes: backup/google_drive.md
-                - Dicas e Truques:
-                        - Atalhos do Windows 10: dicas-truques/atalhos_win.md
-                        #- Atalhos do Excel:
-                        - Aplicativos Úteis:
-                                - Zoomlt: dicas-truques/aplicativos_uteis/Zoomlt.md
-                                - FastStone Capture: dicas-truques/aplicativos_uteis/FastStone.md
-                - Microsoft Office:
-                        - Guias Rápidos do Office 365: office/guias_rapidos.md
-                        - Guia Microsoft Teams: office/microsoft_teams.md
-                - Mercos:
-                        - Primeiro Acesso: mercos/primeiro_acesso.md
-                        - Criando Roteiro: mercos/roteiro.md
-                        - Importe Pedidos por Planilha: mercos/pedidos_via_planilha.md
-                        - Indicadores: mercos/indicadores.md
-                        - Aplicativo:
-                                - Enviando Pedidos para Faturamento: mercos/aplicativo_faturamento.md
-                                - Sincronização: mercos/aplicativo_sincronizar.md
-                - Segurança:
-                        - Alterar Senha:
-                                - Windows: seguranca/reset-senhas/reset_senha_windows.md
-                                - Google: seguranca/reset-senhas/reset_senha_google.md
-                                - Office: seguranca/reset-senhas/reset_senha_office.md
-                        - Autenticação Multifator: seguranca/mfa.md     
-                #- Hardware:
-                        #- Formatando Equipamento: hardware/formatacao.md
-                #- Menu exemplo:
-                #        Submenu exemplo: suporte/faq.md
-                #- Ajuda: sobre.md
+                - TI:                      
+                        - Suporte:
+                                - Softwares Homologados: suporte/softwares_homologados.md
+                                - Assistência Rápida: suporte/assistencia_rap.md
+                        - Backup:
+                                - Backup de Arquivos Importantes: backup/google_drive.md
+                        - Dicas e Truques:
+                                - Atalhos do Windows 10: dicas-truques/atalhos_win.md
+                                #- Atalhos do Excel:
+                                - Aplicativos Úteis:
+                                        - Zoomlt: dicas-truques/aplicativos_uteis/Zoomlt.md
+                                        - FastStone Capture: dicas-truques/aplicativos_uteis/FastStone.md
+                        - Microsoft Office:
+                                - Guias Rápidos do Office 365: office/guias_rapidos.md
+                                - Guia Microsoft Teams: office/microsoft_teams.md
+                        - Mercos:
+                                - Primeiro Acesso: mercos/primeiro_acesso.md
+                                - Criando Roteiro: mercos/roteiro.md
+                                - Importe Pedidos por Planilha: mercos/pedidos_via_planilha.md
+                                - Indicadores: mercos/indicadores.md
+                                - Aplicativo:
+                                        - Enviando Pedidos para Faturamento: mercos/aplicativo_faturamento.md
+                                        - Sincronização: mercos/aplicativo_sincronizar.md
+                        - Segurança:
+                                - Alterar Senha:
+                                        - Windows: seguranca/reset-senhas/reset_senha_windows.md
+                                        - Google: seguranca/reset-senhas/reset_senha_google.md
+                                        - Office: seguranca/reset-senhas/reset_senha_office.md
+                                - Autenticação Multifator: seguranca/mfa.md     
+                        #- Hardware:
+                                #- Formatando Equipamento: hardware/formatacao.md
+                        #- Menu exemplo:
+                        #        Submenu exemplo: suporte/faq.md
+                        #- Ajuda: sobre.md
 
                
 # Configuration
