@@ -50,8 +50,7 @@ nav:
                         #- Menu exemplo:
                         #        Submenu exemplo: suporte/faq.md
                         #- Ajuda: sobre.md
-
-               
+             
 # Configuration
 theme:
         name: material
