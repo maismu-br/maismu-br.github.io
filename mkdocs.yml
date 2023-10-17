@@ -15,9 +15,8 @@ copyright: © 2023 Company - Todos os direitos reservados
 
 # Page tree
 nav:
-        - Início:
-                - Introdução: index.md
-                - TI:                     
+        - Início: index.md
+                - TI:             
                         - Suporte:
                                 - Softwares Homologados: suporte/softwares_homologados.md
                                 - Assistência Rápida: suporte/assistencia_rap.md
