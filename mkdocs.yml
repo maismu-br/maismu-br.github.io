@@ -16,7 +16,7 @@ copyright: © 2023 Company - Todos os direitos reservados
 # Page tree
 nav:
         - Início: index.md
-                - TI:                      
+                - Dados & Tec:                      
                         - Suporte:
                                 - Softwares Homologados: suporte/softwares_homologados.md
                                 - Assistência Rápida: suporte/assistencia_rap.md
@@ -50,7 +50,9 @@ nav:
                         #- Menu exemplo:
                         #        Submenu exemplo: suporte/faq.md
                         #- Ajuda: sobre.md
-             
+                - Financeiro:
+                        Tesouraria: financeiro/tesouraria.md
+
 # Configuration
 theme:
         name: material
