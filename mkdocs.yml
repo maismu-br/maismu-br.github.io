@@ -52,7 +52,7 @@ nav:
                         #- Ajuda: sobre.md
                 - Financeiro:
                         - Tesouraria: financeiro/tesouraria.md
-                        - Contas a receber: financeiro/contas_a_receber.md
+                        - Contas a Receber: financeiro/contas_a_receber.md
                         - Brindes: financeiro/brindes.md
 
 # Configuration

@@ -17,7 +17,7 @@
 - Caso não tenha um acordo, temos um modelo para utilizar com seu cliente, [acesse aqui;](https://docs.google.com/spreadsheets/d/176ry_N9R6YiHd7y4VOKFMjMv1Jh7WGTG/edit#gid=1992326151)
 - Caso não tenha uma nota em aberto, o pagamento será via transferência, é só subir o acordo/Devolução no [formulário;](https://docs.google.com/forms/d/e/1FAIpQLSerzIlouy5DkisGHG8GG8hnIYg7KSi5jjxD2kX_8k0ctx7iVg/viewform)
 
-!!! note warning "Nota"
+!!! note warning "Importante"
 
     É de suma importância que todos os pagamentos via transferência contenham os dados bancários por completo.
     Lembrando que o ideal é realizar abatimento em nota fiscal em aberto.

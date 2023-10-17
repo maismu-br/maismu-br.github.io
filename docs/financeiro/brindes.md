@@ -1,6 +1,6 @@
 # Brindes
 
-!!! note example "Processo"
+!!! note warning "Importante"
 
     Todos os materiais que vão para a Fontes precisam ter uma nota de produto com CFOP de venda,
     para conseguirmos contabilizar tudo o que precisamos.
