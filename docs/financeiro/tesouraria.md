@@ -16,3 +16,5 @@
  - **Não serão pagos boletos que vencem no mesmo dia**;
  - Subir no forms nota e boleto;
  - Quando necessário receber os comprovantes bancários, solicitar no dia posterior ao vencimento no e-mail: **financeiro@maismu.com.br**.
+
+## Pagamentos antecipados 
