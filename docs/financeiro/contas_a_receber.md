@@ -6,7 +6,7 @@
 
 !!! note info "Para todo desconto, é necessário um contrato ou acordo."
 
-    Sempre devemos receber o valor que está na nota fiscal, caso o valor seja diferente, 
+    Sempre informe o valor que está na nota fiscal, caso o valor seja diferente, 
     é preciso de um documento fiscal válido que justifique à diferença.
 
 ### Quando alterar um boleto? 
