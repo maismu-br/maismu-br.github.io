@@ -2,14 +2,14 @@
 
 ![contasareceber](/assets/images/contas_a_receber1.png#center)
 
-## Abatimento em nota/boleto
+### Abatimento em nota/boleto
 
 !!! note warning "Em todo desconto, é preciso um contrato ou acordo."
 
     Sempre devemos receber o valor que está na nota fiscal, caso o valor seja diferente, 
     é preciso de um documento fiscal válido que justifique à diferença.
 
-## Quando alterar um boleto? 
+### Quando alterar um boleto? 
 
 - Desconto de acordo comercial para ser abatido em uma parcela em aberto;
 - Atraso na entrega;
@@ -22,7 +22,7 @@
     É de suma importância que todos os pagamentos via transferência contenham os dados bancários por completo.
     Lembrando que o ideal é realizar abatimento em nota fiscal em aberto.
 
-## Desconto Contratual
+### Desconto Contratual
 
 O Desconto contratual é aquele desconto que o cliente possui em todo pedido.
 Para isso, precisamos que **envie o contrato do cliente por e-mail para financeiro@maismu.com.br**, e em **todo pedido que subir no Mercos** referente ao cliente, é necessário **sinalizar nas observações sobre o % do desconto contratual**.
