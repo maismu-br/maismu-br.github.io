@@ -4,7 +4,7 @@
 
 !!! note example "Planilha modelo."
 
-        [Baixe a planilha já preenchida com todos os produtos clicando aqui.](/assets/images/Planilha_Importação.xlsx)
+[Baixe a planilha já preenchida com todos os produtos clicando aqui.](/assets/images/Planilha_Importação.xlsx)
 
 ### Como funciona?
 
