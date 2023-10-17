@@ -51,7 +51,9 @@ nav:
                         #        Submenu exemplo: suporte/faq.md
                         #- Ajuda: sobre.md
                 - Financeiro:
-                        Tesouraria: financeiro/tesouraria.md
+                        - Tesouraria: financeiro/tesouraria.md
+                        - Contas a receber: financeiro/contas_a_receber.md
+                        - Brindes: financeiro/brindes.md
 
 # Configuration
 theme:
