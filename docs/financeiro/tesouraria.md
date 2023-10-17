@@ -11,7 +11,7 @@
 
  - **Pagamentos serão aprovados às segundas e sextas**;
  - **Emitir notas fiscais até o dia 25**, isso é imprescindível porque houve uma mudança na retenção de imposto e precisamos finalizar essa apuração no primeiro dia útil do mês subsequente;
- - Solicitar RPA pelo [forms](https://docs.google.com/forms/d/e/1FAIpQLSerzIlouy5DkisGHG8GG8hnIYg7KSi5jjxD2kX_8k0ctx7iVg/viewform) até dia 20;
+ - Solicitar RPA pelo [forms](https://docs.google.com/forms/d/e/1FAIpQLSerzIlouy5DkisGHG8GG8hnIYg7KSi5jjxD2kX_8k0ctx7iVg/viewform) **até dia 20**;
  - **Solicitar pagamentos** (boletos e transferências) com no mínimo **7 dias de antecedência**;
  - **Não serão pagos boletos que vencem no mesmo dia**;
  - Subir no [forms](https://docs.google.com/forms/d/e/1FAIpQLSerzIlouy5DkisGHG8GG8hnIYg7KSi5jjxD2kX_8k0ctx7iVg/viewform) nota e boleto;
