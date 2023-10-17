@@ -23,7 +23,7 @@
  - Para o pagamento da segunda parcela basta enviar a nota pelo [forms](https://docs.google.com/forms/d/e/1FAIpQLSerzIlouy5DkisGHG8GG8hnIYg7KSi5jjxD2kX_8k0ctx7iVg/viewform) e na descrição **avisar que 50% do valor já foi pago**;
  - **Não haverá pagamento da segunda parcela sem recebimento do documento fiscal**;
 
-!!! note example "Sobre o pagamento da segunda parcela."
+!!! note example "Sobre o pagamento da segunda parcela:"
 
     Em último caso, se o fornecedor recusar a emitir a nota fiscal antes do pagamento final,
     solicitar o pagamento da segunda parcela no mesmo e-mail da primeira parcela.
@@ -36,7 +36,7 @@
 
 - **Anexar as notas no App com CNPJ da Mais Mu (21.526.148/0001-34) na hora do gasto ou na mesma semana**. Isso é imprescindível porque houve uma mudança na retenção de imposto e precisamos finalizar essa apuração no primeiro dia útil do mês subsequente;
  
-!!! note example "Aumento de limite."
+!!! note example "Aumento de limite:"
 
     Solicitar por e-mail para **financeiro@maismu.com.br** com no **mínimo 5 dias de antecedência**, avisando os últimos 4 dígitos do cartão, o motivo da solicitação e para qual valor é necessário colocar o limite.
 

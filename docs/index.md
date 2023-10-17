@@ -61,8 +61,8 @@ A resolução de um incidente pode apagar rastros e evidências que poderiam ser
 
 !!! note example "Exemplo:"
 
-        Para resolver um incidente, como a queda de um servidor, o técnico aperta o botão de “Reset” da máquina. 
-        Isto vai apagar registros que poderiam ser utilizados para tentar investigar uma causa raiz para a queda do servidor.
+    Para resolver um incidente, como a queda de um servidor, o técnico aperta o botão de “Reset” da máquina. 
+    Isto vai apagar registros que poderiam ser utilizados para tentar investigar uma causa raiz para a queda do servidor.
 
 #### 8. Fechamento de Incidentes
 É o encerramento do chamado, que deve ser `documentado para eventuais consultas`. Também é preciso exportar as informações para a base de conhecimento, tornando-as acessíveis para outros atendentes. Caso essa base não seja constantemente reabastecida, corre-se o risco de perder tempo tentando encontrar a solução para um incidente que já foi resolvido anteriormente.
