@@ -9,10 +9,10 @@
 
 ## Pagamentos
 
- - Pagamentos serão aprovados às segundas e sextas;
- - Emitir notas fiscais até o dia 25, isso é imprescindível porque houve uma mudança na retenção de imposto e precisamos finalizar essa apuração no primeiro dia útil do mês subsequente;
+ - **Pagamentos serão aprovados às segundas e sextas**;
+ - **Emitir notas fiscais até o dia 25**, isso é imprescindível porque houve uma mudança na retenção de imposto e precisamos finalizar essa apuração no primeiro dia útil do mês subsequente;
  - Solicitar RPA pelo forms até dia 20;
- - Solicitar pagamentos (boletos e transferências) com no mínimo 7 dias de antecedência;
- - Não serão pagos boletos que vencem no mesmo dia;
+ - **Solicitar pagamentos** (boletos e transferências) com no mínimo **7 dias de antecedência**;
+ - **Não serão pagos boletos que vencem no mesmo dia**;
  - Subir no forms nota e boleto;
- - Quando necessário receber os comprovantes bancários solicitar no dia posterior ao vencimento no e-mail financeiro@maismu.com.br.
+ - Quando necessário receber os comprovantes bancários, solicitar no dia posterior ao vencimento no e-mail: **financeiro@maismu.com.br**.
