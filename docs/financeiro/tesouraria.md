@@ -45,7 +45,7 @@
 - Enviar as seguintes informações para **financeiro@maismu.com.br** (com o gestor em cópia): **data da viagem**, o **motivo**, os **últimos 4 dígitos do cartão Conta Simples** e o **valor estimado** do gasto total da viagem;
 - Avisar com no **mínimo 10 dias de antecedência**;
 
-!!! note info "Outras formas de pagamento."
+!!! note info "Outras formas de pagamento:"
 
     Caso seja necessário o pagamento da viagem por uma forma diferente do Conta Simples, será orientado no e-mail.
 
