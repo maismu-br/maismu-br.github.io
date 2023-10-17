@@ -3,6 +3,7 @@
 ![pedido0](/assets/images/pedidos_planilha_0.png#center)
 
 !!! note example "Planilha modelo."
+
         [Baixe a planilha já preenchida com todos os produtos clicando aqui.](/assets/images/Planilha_Importação.xlsx)
 
 ### Como funciona?
