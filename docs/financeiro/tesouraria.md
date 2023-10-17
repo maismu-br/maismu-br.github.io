@@ -33,17 +33,16 @@
 
 ## Conta simples
 
-- Anexar as notas no App com CNPJ da Mais Mu (21.526.148/0001-34) na hora do gasto ou na mesma semana. Isso é imprescindível porque houve uma mudança na retenção de imposto e precisamos finalizar essa apuração no primeiro dia útil do mês subsequente;
+- **Anexar as notas no App com CNPJ da Mais Mu (21.526.148/0001-34) na hora do gasto ou na mesma semana**. Isso é imprescindível porque houve uma mudança na retenção de imposto e precisamos finalizar essa apuração no primeiro dia útil do mês subsequente;
  
 !!! note example "Aumento de limite"
 
-    solicitar por e-mail para financeiro@maismu.com.br com no mínimo 5 dias de antecedência, avisando os últimos 4 dígitos do cartão, o motivo da solicitação e para qual valor é necessário colocar o limite.
+    Solicitar por e-mail para **financeiro@maismu.com.br** com no **mínimo 5 dias de antecedência**, avisando os últimos 4 dígitos do cartão, o motivo da solicitação e para qual valor é necessário colocar o limite.
 
 ## Viagens
 
-- Enviar as seguintes informações: a data da viagem, o motivo, os últimos 4 dígitos do cartão Conta Simples e o valor estimado do gasto total da viagem;
-- O e-mail deve ser enviado para financeiro@maismu.com.br com o gestor em cópia;
-- Avisar com no mínimo 10 dias de antecedência;
+- Enviar as seguintes informações para **financeiro@maismu.com.br** (com o gestor em cópia): **data da viagem**, o **motivo**, os **últimos 4 dígitos do cartão Conta Simples** e o **valor estimado** do gasto total da viagem;
+- Avisar com no **mínimo 10 dias de antecedência**;
 
 !!! note example "Outras formas de pagamento"
 
@@ -51,6 +50,6 @@
 
 ## Reembolso
 
-- Solicitar reembolsos apenas em casos em que o Conta Simples não for aceito, por isso é importante sempre se programar para solicitar aumento de limite quando necessário;
-- Enviar e-mail solicitando reembolso para financeiro@maismu.com.br com uma descrição dos gastos e anexado o documento fiscal com CNPJ da Mais Mu. Colocar o gestor da sua área em cópia para ele aprovar a realização do reembolso;
-- Após aprovação do gestor o reembolso será realizado em até 7 dias úteis.
+- Solicitar reembolsos **apenas em casos em que o Conta Simples não for aceito**, por isso é **importante sempre se programar** para solicitar aumento de limite quando necessário;
+- Enviar e-mail solicitando reembolso para **financeiro@maismu.com.br** com uma descrição dos gastos e **anexado o documento fiscal com CNPJ da Mais Mu**. Colocar o gestor da sua área em cópia para ele aprovar a realização do reembolso;
+- Após aprovação do gestor o **reembolso será realizado em até 7 dias úteis**.
