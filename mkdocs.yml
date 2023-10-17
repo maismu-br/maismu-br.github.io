@@ -52,6 +52,7 @@ nav:
                         #- Ajuda: sobre.md
                 - Financeiro:
                         Tesouraria: financeiro/tesouraria.md
+                - RH:
 
 # Configuration
 theme:
