@@ -37,6 +37,7 @@ nav:
                         - Importe Pedidos por Planilha: mercos/pedidos_via_planilha.md
                         - Indicadores: mercos/indicadores.md
                         - Aplicativo:
+                                - Lançamento de Pedidos: mercos/aplicativo_lancar_pedido.md
                                 - Enviando Pedidos para Faturamento: mercos/aplicativo_faturamento.md
                                 - Sincronização: mercos/aplicativo_sincronizar.md
                 - Segurança:
