@@ -52,6 +52,7 @@ nav:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
         - Financeiro:
+                - Introdução Financeiro: introducao_financeiro.md
                 - Tesouraria: financeiro/tesouraria.md
                 - Contas a Receber: financeiro/contas_a_receber.md
                 - Política de Viagem: financeiro/politica_viagem.md
