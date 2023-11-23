@@ -52,7 +52,7 @@ nav:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
         - Financeiro: 
-                - Introdução Financeiro: introducao_financeiro.md
+                - Introdução: introducao_financeiro.md
                 - Pagamentos:
                         - Pagamentos Geral: financeiro/pagamentos/pagamentos_geral.md
                         - Pagamentos Antecipados: financeiro/pagamentos/pagamentos_antecipados.md
