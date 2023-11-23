@@ -54,6 +54,7 @@ nav:
         - Financeiro:
                 - Tesouraria: financeiro/tesouraria.md
                 - Contas a Receber: financeiro/contas_a_receber.md
+                - Política de Viagem: financeiro/politica_viagem.md
                 - Brindes: financeiro/brindes.md
 
 # Configuration
