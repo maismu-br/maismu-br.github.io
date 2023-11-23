@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/introducao_financeiro/</loc>
-         <lastmod>2023-11-23</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>http://maismu-br.github.io/sobre/</loc>
          <lastmod>2023-11-23</lastmod>
          <changefreq>daily</changefreq>
@@ -47,6 +42,11 @@
     </url>
     <url>
          <loc>http://maismu-br.github.io/financeiro/contas_a_receber/</loc>
+         <lastmod>2023-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/financeiro/introducao_financeiro/</loc>
          <lastmod>2023-11-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
