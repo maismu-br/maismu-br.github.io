@@ -1,4 +1,4 @@
-# Política de Viagem Mais Mu
+# Política de Viagem
 
 ![contasareceber](/assets/images/viagem1.png#center)
 
