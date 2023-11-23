@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://maismu-br.github.io/financeiro/conta_simples/</loc>
+         <lastmod>2023-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://maismu-br.github.io/financeiro/contas_a_receber/</loc>
          <lastmod>2023-11-23</lastmod>
          <changefreq>daily</changefreq>
@@ -51,7 +56,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://maismu-br.github.io/financeiro/reembolso/</loc>
+         <lastmod>2023-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://maismu-br.github.io/financeiro/tesouraria/</loc>
+         <lastmod>2023-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/financeiro/pagamentos/pagamento_contratos/</loc>
+         <lastmod>2023-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/financeiro/pagamentos/pagamentos_antecipados/</loc>
+         <lastmod>2023-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/financeiro/pagamentos/pagamentos_geral/</loc>
          <lastmod>2023-11-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
