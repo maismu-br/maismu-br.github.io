@@ -53,7 +53,13 @@ nav:
                 #- Ajuda: sobre.md
         - Financeiro: 
                 - Introdução: financeiro/introducao_financeiro.md
-                - Política de Viagem: financeiro/politica_viagem.md
+                - Política de Viagem:
+                        - Objetivo: financeiro/viagem/viagem_objetivo.md
+                        - Solicitação de Passagem: financeiro/viagem/viagem_passagens.md
+                        - Solicitação de Hospedagem: financeiro/viagem/viagem_hospedagem.md
+                        - Aumento de Limite/Prestação de Contas: financeiro/viagem/viagem_limite.md
+                        - Locação de Veículos: financeiro/viagem/viagem_veiculo.md
+                        - Alimentação: financeiro/viagem/viagem_alimentacao.md
                 - Pagamentos:
                         - Pagamentos Geral: financeiro/pagamentos/pagamentos_geral.md
                         - Pagamentos Antecipados: financeiro/pagamentos/pagamentos_antecipados.md
