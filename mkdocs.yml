@@ -15,7 +15,7 @@ copyright: © 2023 Company - Todos os direitos reservados
 
 # Page tree
 nav:
-        - TI: ti/index.md
+        - TI:
                 - Introdução: ti/index.md
                 - Suporte:
                         - Softwares Homologados: ti/suporte/softwares_homologados.md
