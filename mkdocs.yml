@@ -14,7 +14,7 @@ edit_uri: edit/main/docs
 copyright: © 2023 Company - Todos os direitos reservados
 
 # Page tree
-nav:
+nav: ti/index.md
         - TI:
                 - Introdução: ti/index.md
                 - Suporte:
