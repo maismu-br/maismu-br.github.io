@@ -16,41 +16,43 @@ copyright: © 2023 Company - Todos os direitos reservados
 # Page tree
 nav:
         - TI:
-                - Introdução: index.md
+                - Introdução: ti/index.md
                 - Suporte:
-                        - Softwares Homologados: suporte/softwares_homologados.md
-                        - Assistência Rápida: suporte/assistencia_rap.md
+                        - Softwares Homologados: ti/suporte/softwares_homologados.md
+                        - Assistência Rápida: ti/suporte/assistencia_rap.md
                 - Backup:
-                        - Backup de Arquivos Importantes: backup/google_drive.md
+                        - Backup de Arquivos Importantes: ti/backup/google_drive.md
                 - Dicas e Truques:
-                        - Atalhos do Windows 10: dicas-truques/atalhos_win.md
+                        - Atalhos do Windows 10: ti/dicas-truques/atalhos_win.md
                         #- Atalhos do Excel:
                         - Aplicativos Úteis:
-                                - Zoomlt: dicas-truques/aplicativos_uteis/Zoomlt.md
-                                - FastStone Capture: dicas-truques/aplicativos_uteis/FastStone.md
+                                - Zoomlt: ti/dicas-truques/aplicativos_uteis/Zoomlt.md
+                                - FastStone Capture: ti/dicas-truques/aplicativos_uteis/FastStone.md
                 - Microsoft Office:
-                        - Guias Rápidos do Office 365: office/guias_rapidos.md
-                        - Guia Microsoft Teams: office/microsoft_teams.md
+                        - Guias Rápidos do Office 365: ti/office/guias_rapidos.md
+                        - Guia Microsoft Teams: ti/office/microsoft_teams.md
                 - Mercos:
-                        - Primeiro Acesso: mercos/primeiro_acesso.md
-                        - Criando Roteiro: mercos/roteiro.md
-                        - Importe Pedidos por Planilha: mercos/pedidos_via_planilha.md
-                        - Indicadores: mercos/indicadores.md
+                        - Primeiro Acesso: ti/mercos/primeiro_acesso.md
+                        - Criando Roteiro: ti/mercos/roteiro.md
+                        - Importe Pedidos por Planilha: ti/mercos/pedidos_via_planilha.md
+                        - Indicadores: ti/mercos/indicadores.md
                         - Aplicativo:
-                                - Lançamento de Pedidos: mercos/aplicativo_lancar_pedido.md
-                                - Enviando Pedidos para Faturamento: mercos/aplicativo_faturamento.md
-                                - Sincronização: mercos/aplicativo_sincronizar.md
+                                - Lançamento de Pedidos: ti/mercos/aplicativo_lancar_pedido.md
+                                - Enviando Pedidos para Faturamento: ti/mercos/aplicativo_faturamento.md
+                                - Sincronização: ti/mercos/aplicativo_sincronizar.md
                 - Segurança:
                         - Alterar Senha:
-                                - Windows: seguranca/reset-senhas/reset_senha_windows.md
-                                - Google: seguranca/reset-senhas/reset_senha_google.md
-                                - Office: seguranca/reset-senhas/reset_senha_office.md
-                        - Autenticação Multifator: seguranca/mfa.md     
+                                - Windows: ti/seguranca/reset-senhas/reset_senha_windows.md
+                                - Google: ti/seguranca/reset-senhas/reset_senha_google.md
+                                - Office: ti/seguranca/reset-senhas/reset_senha_office.md
+                        - Autenticação Multifator: ti/seguranca/mfa.md     
                 #- Hardware:
                         #- Formatando Equipamento: hardware/formatacao.md
                 #- Menu exemplo:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
+        - RH:
+               Benefícios: rh/beneficios.md
         - Financeiro: 
                 - Introdução: financeiro/introducao_financeiro.md
                 - Política de Viagem:
@@ -60,7 +62,7 @@ nav:
                         - Aumento de Limite/Prestação de Contas: financeiro/viagem/viagem_limite.md
                         - Locação de Veículos: financeiro/viagem/viagem_veiculo.md
                         - Alimentação: financeiro/viagem/viagem_alimentacao.md
-                - Pagamento:
+                - Pagamentos:
                         - Pagamentos: financeiro/pagamentos/pagamentos_geral.md
                         - Pagamentos Antecipados: financeiro/pagamentos/pagamentos_antecipados.md
                         - Pagamento de Contratos: financeiro/pagamentos/pagamento_contratos.md
