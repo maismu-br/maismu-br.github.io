@@ -1,6 +1,6 @@
 # Informações Gerais
 
-### Dados da Empresa:
+## Dados da Empresa:
 
 Razão Social: Mais Mu Comercio de Alimentos e Bebidas SA
 
@@ -16,7 +16,7 @@ Regime Tributário: Real
 
 Endereço: Rua Pamplona 145, sala 816, Jardim Paulista, CEP: 01405-900
 
-### Dados bancários
+## Dados bancários:
 
 Banco:Itaú
 

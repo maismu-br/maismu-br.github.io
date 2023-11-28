@@ -53,13 +53,13 @@ nav:
                 #- Ajuda: sobre.md
         - Financeiro: 
                 - Introdução: financeiro/introducao_financeiro.md
+                - Política de Viagem: financeiro/politica_viagem.md
                 - Pagamentos:
                         - Pagamentos Geral: financeiro/pagamentos/pagamentos_geral.md
                         - Pagamentos Antecipados: financeiro/pagamentos/pagamentos_antecipados.md
                         - Pagamento de Contratos: financeiro/pagamentos/pagamento_contratos.md
                 - Contas a Receber: financeiro/contas_a_receber.md
                 - Conta Simples: financeiro/conta_simples.md
-                - Política de Viagem: financeiro/politica_viagem.md
                 - Reembolsos: financeiro/reembolso.md
                 - Brindes: financeiro/brindes.md
                 - Informações da Mais Mu: financeiro/informacoes_gerais.md
