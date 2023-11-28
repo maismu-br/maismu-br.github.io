@@ -55,6 +55,7 @@ nav:
                Benefícios: rh/beneficios.md
         - Financeiro: 
                 - Introdução: financeiro/introducao_financeiro.md
+                - Informações da Mais Mu: financeiro/informacoes_gerais.md
                 - Política de Viagem:
                         - Objetivo: financeiro/viagem/viagem_objetivo.md
                         - Solicitação de Passagem: financeiro/viagem/viagem_passagens.md
@@ -70,7 +71,6 @@ nav:
                 - Conta Simples: financeiro/conta_simples.md
                 - Reembolso: financeiro/reembolso.md
                 - Brindes: financeiro/brindes.md
-                - Informações da Mais Mu: financeiro/informacoes_gerais.md
 
 # Configuration
 theme:
