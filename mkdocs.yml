@@ -60,13 +60,13 @@ nav:
                         - Aumento de Limite/Prestação de Contas: financeiro/viagem/viagem_limite.md
                         - Locação de Veículos: financeiro/viagem/viagem_veiculo.md
                         - Alimentação: financeiro/viagem/viagem_alimentacao.md
-                - Pagamentos:
-                        - Pagamentos Geral: financeiro/pagamentos/pagamentos_geral.md
+                - Pagamento:
+                        - Pagamentos: financeiro/pagamentos/pagamentos_geral.md
                         - Pagamentos Antecipados: financeiro/pagamentos/pagamentos_antecipados.md
                         - Pagamento de Contratos: financeiro/pagamentos/pagamento_contratos.md
                 - Contas a Receber: financeiro/contas_a_receber.md
                 - Conta Simples: financeiro/conta_simples.md
-                - Reembolsos: financeiro/reembolso.md
+                - Reembolso: financeiro/reembolso.md
                 - Brindes: financeiro/brindes.md
                 - Informações da Mais Mu: financeiro/informacoes_gerais.md
 
