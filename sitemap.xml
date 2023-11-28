@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://maismu-br.github.io/</loc>
-         <lastmod>2023-11-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>http://maismu-br.github.io/sobre/</loc>
-         <lastmod>2023-11-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://maismu-br.github.io/backup/google_drive/</loc>
-         <lastmod>2023-11-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://maismu-br.github.io/dicas-truques/atalhos_win/</loc>
-         <lastmod>2023-11-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://maismu-br.github.io/dicas-truques/aplicativos_uteis/FastStone/</loc>
-         <lastmod>2023-11-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>http://maismu-br.github.io/dicas-truques/aplicativos_uteis/Zoomlt/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -116,87 +91,117 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/hardware/formatacao/</loc>
+         <loc>http://maismu-br.github.io/rh/beneficios/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/aplicativo_faturamento/</loc>
+         <loc>http://maismu-br.github.io/ti/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/aplicativo_lancar_pedido/</loc>
+         <loc>http://maismu-br.github.io/ti/backup/google_drive/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/aplicativo_sincronizar/</loc>
+         <loc>http://maismu-br.github.io/ti/dicas-truques/atalhos_win/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/indicadores/</loc>
+         <loc>http://maismu-br.github.io/ti/dicas-truques/aplicativos_uteis/FastStone/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/pedidos_via_planilha/</loc>
+         <loc>http://maismu-br.github.io/ti/dicas-truques/aplicativos_uteis/Zoomlt/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/primeiro_acesso/</loc>
+         <loc>http://maismu-br.github.io/ti/hardware/formatacao/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/mercos/roteiro/</loc>
+         <loc>http://maismu-br.github.io/ti/mercos/aplicativo_faturamento/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/office/guias_rapidos/</loc>
+         <loc>http://maismu-br.github.io/ti/mercos/aplicativo_lancar_pedido/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/office/microsoft_teams/</loc>
+         <loc>http://maismu-br.github.io/ti/mercos/aplicativo_sincronizar/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/seguranca/mfa/</loc>
+         <loc>http://maismu-br.github.io/ti/mercos/indicadores/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/seguranca/reset-senhas/reset_senha_google/</loc>
+         <loc>http://maismu-br.github.io/ti/mercos/pedidos_via_planilha/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/seguranca/reset-senhas/reset_senha_office/</loc>
+         <loc>http://maismu-br.github.io/ti/mercos/primeiro_acesso/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/seguranca/reset-senhas/reset_senha_windows/</loc>
+         <loc>http://maismu-br.github.io/ti/mercos/roteiro/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/suporte/assistencia_rap/</loc>
+         <loc>http://maismu-br.github.io/ti/office/guias_rapidos/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/suporte/faq/</loc>
+         <loc>http://maismu-br.github.io/ti/office/microsoft_teams/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/suporte/softwares_homologados/</loc>
+         <loc>http://maismu-br.github.io/ti/seguranca/mfa/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/ti/seguranca/reset-senhas/reset_senha_google/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/ti/seguranca/reset-senhas/reset_senha_office/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/ti/seguranca/reset-senhas/reset_senha_windows/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/ti/suporte/assistencia_rap/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/ti/suporte/faq/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/ti/suporte/softwares_homologados/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
