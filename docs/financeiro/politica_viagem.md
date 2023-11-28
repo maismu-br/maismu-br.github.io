@@ -2,7 +2,7 @@
 
 ![contasareceber](/assets/images/viagem1.png#center)
 
-!!! note warning "Objetivo."
+!!! note info "Objetivo:"
 
     Nossa política visa facilitar as viagens dos colaboradores, mantendo despesas alinhadas com os objetivos da Mais Mu. Lembrando que as solicitações devem ser aprovadas por seu superior hierárquico através da plataforma da **Onfly**.
 
