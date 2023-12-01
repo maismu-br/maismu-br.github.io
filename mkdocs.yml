@@ -64,12 +64,13 @@ nav:
                         - Locação de Veículos: financeiro/viagem/viagem_veiculo.md
                         - Alimentação: financeiro/viagem/viagem_alimentacao.md
                 - Pagamentos:
-                        - Pagamentos: financeiro/pagamentos/pagamentos_geral.md
+                        - Pagamentos Geral: financeiro/pagamentos/pagamentos_geral.md
                         - Pagamentos Antecipados: financeiro/pagamentos/pagamentos_antecipados.md
                         - Pagamento de Contratos: financeiro/pagamentos/pagamento_contratos.md
                 - Contas a Receber: financeiro/contas_a_receber.md
                 - Conta Simples: financeiro/conta_simples.md
-                - Exportação: financeiro/exportacao/exportação.md
+                - Exportação:
+                        - Detalhes: financeiro/exportacao/exportação.md
                         - Documentação Inicial: financeiro/exportacao/documentacao_inicial.md
                         - Documentação Durante a Conversão: financeiro/exportacao/documentacao_durante.md
                         - Documentação Final: financeiro/exportacao/documentacao_final.md
