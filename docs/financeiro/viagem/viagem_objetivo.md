@@ -10,7 +10,7 @@
 
 ### Colaborador:
 
- - Utilizar a [**Onfly**](https://app.onfly.com.br/login) para a solicitações dos serviços de viagem 
+ - Utilizar a [**Onfly**](https://app.onfly.com.br/login) para a solicitações dos serviços de viagem.
  - Planejar e solicitar, com antecedência **mínima de 15 dias**, suas passagens Aéreas e reservas de Hotel, a fim de evitar oneração dos custos de viagem.
  - Comprovar, por meio de documentos fiscais **(Recibo com CNPJ 21.526.148/0001-34)**, todas as despesas que foram gastas no contas Simples.
 
