@@ -69,6 +69,10 @@ nav:
                         - Pagamento de Contratos: financeiro/pagamentos/pagamento_contratos.md
                 - Contas a Receber: financeiro/contas_a_receber.md
                 - Conta Simples: financeiro/conta_simples.md
+                - Exportação: financeiro/exportacao/exportação.md
+                        - Documentação Inicial: financeiro/exportacao/documentacao_inicial.md
+                        - Documentação Durante a Conversão: financeiro/exportacao/documentacao_durante.md
+                        - Documentação Final: financeiro/exportacao/documentacao_final.md
                 - Reembolso: financeiro/reembolso.md
                 - Brindes: financeiro/brindes.md
 

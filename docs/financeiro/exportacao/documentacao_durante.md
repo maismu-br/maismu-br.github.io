@@ -1,0 +1,1 @@
+![exp1](/assets/images/exportação3.png#center)
