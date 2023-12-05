@@ -17,6 +17,6 @@ Não. Esse é um benéfico flexível para mobilidade.
 
 Não. Se você estiver precisando ir mais do que 2x na semana em média, fale com seu gestor e ajustamos o seu VT. 
 
-!!! note warning "Estacionamento/Uber:
+!!! note warning "Estacionamento/Uber:"
 
     Não fazemos reembolso de estacionamento ou Uber nos dias normais de escritório.
