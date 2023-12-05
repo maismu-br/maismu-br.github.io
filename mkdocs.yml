@@ -53,7 +53,7 @@ nav:
                 #- Ajuda: sobre.md
         - RH:
                Benefícios: 
-                        - Benefícios e Swile: rh/beneficios/beneficios.md
+                        - Swile: rh/beneficios/beneficios.md
                         - Vale Transporte: rh/beneficios/vale_transporte.md
                         - Vale Refeição: rh/beneficios/vale_refeicao.md
                         - Home Office: rh/beneficios/home_office.md
