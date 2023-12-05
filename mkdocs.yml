@@ -52,7 +52,11 @@ nav:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
         - RH:
-               Benefícios: rh/beneficios.md
+               Benefícios: rh/beneficios/beneficios.md
+                        - Vale Transporte: rh/beneficios/vale_transporte.md
+                        - Vale Refeição: rh/beneficios/vale_refeicao.md
+                        - Home Office: rh/beneficios/home_office.md
+                        - Bônus: rh/beneficios/bonus.md
         - Financeiro: 
                 - Introdução: financeiro/introducao_financeiro.md
                 - Informações da Mais Mu: financeiro/informacoes_gerais.md
