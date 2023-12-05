@@ -2,7 +2,7 @@
 
 Para os colaboradores CLT & estagiários:
 
-- O vale transporte será pago através do cartão Swile no modo "mobilidade". 
+- O vale transporte será pago através do cartão **Swile** no modo "mobilidade". 
 - Recarga todo **dia 20** do mês.
 
 **Quanto será pago?** 
