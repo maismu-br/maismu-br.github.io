@@ -1,4 +1,4 @@
-# A importância de Reinicar seu PC
+# A importância de Reinicar o PC
 
 Você já ouviu de algum profissional de TI a frase “Você já reiniciou seu computador?” quando estava com problemas de lentidão ou alguns bugs estranhos, no Excel, por exemplo?
 
