@@ -18,12 +18,12 @@ nav:
         - TI:
                 - Introdução: ti/index.md
                 - Suporte:
+                        - A Importância de Reiniciar o PC: ti/suporte/reiniciar_pc.md
                         - Softwares Homologados: ti/suporte/softwares_homologados.md
                         - Assistência Rápida: ti/suporte/assistencia_rap.md
                 - Backup:
                         - Backup de Arquivos Importantes: ti/backup/google_drive.md
                 - Dicas e Truques:
-                        - A Importância de Reiniciar o PC: ti/dicas-truques/reiniciar_pc.md
                         - Atalhos do Windows 10: ti/dicas-truques/atalhos_win.md
                         #- Atalhos do Excel:
                         - Aplicativos Úteis:
