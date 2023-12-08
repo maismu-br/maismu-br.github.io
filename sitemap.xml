@@ -171,11 +171,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://maismu-br.github.io/ti/dicas-truques/reiniciar_pc/</loc>
-         <lastmod>2023-12-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>http://maismu-br.github.io/ti/dicas-truques/aplicativos_uteis/FastStone/</loc>
          <lastmod>2023-12-08</lastmod>
          <changefreq>daily</changefreq>
@@ -262,6 +257,11 @@
     </url>
     <url>
          <loc>http://maismu-br.github.io/ti/suporte/faq/</loc>
+         <lastmod>2023-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://maismu-br.github.io/ti/suporte/reiniciar_pc/</loc>
          <lastmod>2023-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
