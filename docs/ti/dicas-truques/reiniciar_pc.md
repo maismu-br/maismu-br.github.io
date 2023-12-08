@@ -25,8 +25,8 @@ E conforme os dias forem passando, podem ocorrer certos “erros ou alterações
 
 ### Como identificar quantos dias seu computador está ativo sem desligar:
 
-**1** – Aperte as teclas ++ctrl++ + ++shift++ + ++esc++ e abrirá a tela de Gerenciador de tarefas;
-**2** – Após isso, selecione a opção Desempenho e então veja o Tempo de Atividade do seu notebook.
+- 1 - Aperte as teclas ++ctrl++ + ++shift++ + ++esc++ e abrirá a tela de Gerenciador de tarefas;
+- 2 - Após isso, selecione a opção Desempenho e então veja o Tempo de Atividade do seu notebook.
 
 No print abaixo, temos o exemplo de um computador que está 27 dias e 16 horas sem ser reinicializado:
 
