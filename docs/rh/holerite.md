@@ -1,7 +1,10 @@
 # Holerite
 
-Pensando em otimizar o processo e melhorar a experiência de todos, no dia 01 de cada mês subiremos via [**Convenia**](https://login.convenia.com.br/) os holerites (além do que é disponibilizado via Itaú), e para acessar é super simples:
+Pensando em otimizar o processo e melhorar a experiência de todos, no dia 01 de cada mês subiremos via [**Convenia**](https://login.convenia.com.br/) os holerites.
+Ainda é possível consultar através do Itaú.
 
-1 - Acesse sua página inicial no [**Convenia**](https://login.convenia.com.br/);
-2 - clique em "Meus Recibos de Pagamento";
-3 - selecione o mês desejado.
+E para acessar é super simples:
+
+- Acesse sua página inicial no [**Convenia**](https://login.convenia.com.br/);
+- clique em "Meus Recibos de Pagamento";
+- selecione o mês desejado.

@@ -8,10 +8,10 @@ Para consultar seu saldo de férias, envie um e-mail para: **suporte.rh@maismu.c
 
 A solicitação é feita através do [**Convenia**](https://login.convenia.com.br/).
 
-1 - Acessar a página inicial no [**Convenia**](https://login.convenia.com.br/);
-2 - clique em "Minhas férias";
-3 - clique em “Solicitar férias”;
-4 - escolha as datas e faça a solicitação.
+- Acessar a página inicial no [**Convenia**](https://login.convenia.com.br/);
+- clique em "Minhas férias";
+- clique em “Solicitar férias”;
+- escolha as datas e faça a solicitação.
 
 Após realizar o pedido de férias, aguarde seu gestor e o responsável pelo RH aprovarem a sua solicitação.
 
