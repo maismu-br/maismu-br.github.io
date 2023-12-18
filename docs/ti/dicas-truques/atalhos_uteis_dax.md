@@ -92,7 +92,7 @@ Já se pegou chegando com o rosto perto do monitor pra enxergar melhor sua medid
 
 ![dax9](/assets/images/tidax9.gif#center)
 
-### Ativar ou desativar intellisense.
+### Ativar ou desativar intellisense
 
 Tava digitando minha medida e do nada o “autocompletar” parou de aparecer. Esse atalho trás ele de volta.
 
