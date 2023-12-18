@@ -26,10 +26,10 @@ nav:
                 - Dicas e Truques:
                         - Atalhos do Windows 10: ti/dicas-truques/atalhos_win.md
                         #- Atalhos do Excel:
+                        - Atalhos PBI DAX: ti/dicas-truques/atalhos_uteis_dax.md
                         - Aplicativos Úteis:
                                 - Zoomlt: ti/dicas-truques/aplicativos_uteis/Zoomlt.md
                                 - FastStone Capture: ti/dicas-truques/aplicativos_uteis/FastStone.md
-                        - Atalhos DAX: ti/dicas-truques/atalhos_uteis_dax.md
                 - Microsoft Office:
                         - Guias Rápidos do Office 365: ti/office/guias_rapidos.md
                         - Guia Microsoft Teams: ti/office/microsoft_teams.md
