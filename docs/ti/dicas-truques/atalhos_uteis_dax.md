@@ -8,7 +8,7 @@ Existem alguns atalhos que podem ser usados para realizar uma modificação “e
 
 **Ctrl** + **D**: Seleciona uma palavra, se usada novamente, irá selecionar a mesma palavra no próximo segmento.
 
-**Ctrl** + **F2+** ou **Ctrl** + **Shift** + **L**: Seleciona todas as instancias de uma palavra/seleção.
+**Ctrl** + **F2** ou **Ctrl** + **Shift** + **L**: Seleciona todas as instancias de uma palavra/seleção.
 
 **Ctrl** + **Alt** + **Cima** ou **Ctrl** + **Alt** + **Baixo**: Cria múltiplos cursores para digitação em múltiplas linhas.
 
