@@ -2,7 +2,7 @@
 
 !!! note warning "Importante."
 
-    É crucial que todos os pagamentos tenham um documento fiscal com o nosso CNPJ (21.526.148-0001-34), para comprovar a origem do gasto. 
+    É crucial que **todos os pagamentos** tenham um documento fiscal **com o nosso CNPJ (21.526.148-0001-34)**, para comprovar a origem do gasto. 
     Precisamos receber as notas, porque não existe um sistema que consiga puxá-las para termos conhecimento, porque as emissões são municipais.
 
  - **Pagamentos serão aprovados às segundas e sextas**;
