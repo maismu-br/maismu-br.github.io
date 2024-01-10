@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://maismu-br.github.io/juridico/fluxo_juridico/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://maismu-br.github.io/rh/ferias/</loc>
          <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
