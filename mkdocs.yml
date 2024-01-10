@@ -87,6 +87,8 @@ nav:
                         - Documentação Final: financeiro/exportacao/documentacao_final.md
                 - Reembolso: financeiro/reembolso.md
                 - Brindes: financeiro/brindes.md
+        - Juridíco:
+                - Fluxo de Solicitação: juridico/fluxo_juridico.md
 
 # Configuration
 theme:
