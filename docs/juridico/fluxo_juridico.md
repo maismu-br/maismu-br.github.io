@@ -38,10 +38,10 @@ completo de todos que estiverem envolvidos.
 
 ### 6 - Prazo
 
-**Por último, mas não menos importante: qual o seu prazo?**
+Por último, mas não menos importante: qual o seu prazo?
 
-É uma urgência ou pode esperar um pouquinho? Sejamos razoáveis!! É muito importante termos um tempo “padrão” de reposta, mas isso depende da complexidade do documento, se estamos revisando ou elaborando algo do zero, e do volume total de solicitações que o jurídico está atendendo. Por isso, se você já
-tiver um prazo que precisa cumprir, me avise! Caso não tenha um prazo definido, podemos
+É uma urgência ou pode esperar um pouquinho? Sejamos razoáveis!! É muito importante termos um tempo “padrão” de reposta, mas isso depende da complexidade do documento, se estamos revisando ou elaborando algo do zero, e do volume total de solicitações que o jurídico está atendendo.
+Por isso, se você já tiver um prazo que precisa cumprir, me avise! Caso não tenha um prazo definido, podemos
 definir juntos.
 
 !!! note info "Lembrando:"
