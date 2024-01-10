@@ -32,20 +32,18 @@ melhor. Conta a fofoca toda que eu te ajudo!
 
 ### 5 - Qualificação Completa das Partes (para elaboração)
 
-Se você está dando à luz um novo documento, precisamos dos detalhes! Quem são as partes
+Se você está dando luz à um novo documento, precisamos dos detalhes! Quem são as partes
 envolvidas? Vamos dar nome aos bois: precisamos do nome completo, CPF/CNPJ e endereço
-completo de todo mundo que for envolvido nesse documento.
+completo de todos que estiverem envolvidos.
 
 ### 6 - Prazo
 
-Por último, mas não menos importante: qual o seu prazo? É uma urgência ou pode esperar um
-pouquinho? Sejamos razoáveis!! É muito importante termos um tempo “padrão” de reposta,
-mas isso depende da complexidade do documento, se estamos revisando ou elaborando algo
-do zero, e do volume total de solicitações que o jurídico está atendendo. Por isso, se você já
+**Por último, mas não menos importante: qual o seu prazo?**
+
+É uma urgência ou pode esperar um pouquinho? Sejamos razoáveis!! É muito importante termos um tempo “padrão” de reposta, mas isso depende da complexidade do documento, se estamos revisando ou elaborando algo do zero, e do volume total de solicitações que o jurídico está atendendo. Por isso, se você já
 tiver um prazo que precisa cumprir, me avise! Caso não tenha um prazo definido, podemos
 definir juntos.
 
 !!! note info "Lembrando:"
 
-    Quanto mais informação melhor e mais rápido e fácil será a análise ou a
-    elaboração do que precisa!
+    Quanto mais informação, melhor, pois a análise ou elaboração do que é necessário será mais rápida e fácil!
