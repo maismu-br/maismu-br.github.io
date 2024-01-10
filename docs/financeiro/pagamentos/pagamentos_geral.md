@@ -1,7 +1,5 @@
 # Pagamentos
 
-![tesouraria1](/assets/images/tesouraria1.png#center)
-
 !!! note warning "Importante."
 
     É crucial que todos os pagamentos tenham um documento fiscal com o nosso CNPJ (21.526.148-0001-34), para comprovar a origem do gasto. 
