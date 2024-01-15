@@ -14,7 +14,7 @@ Na área de inserção de itens do pedido você notará a opção: “Adicionar 
 
 ### Duas informações devem ser fornecidas ao sistema:
 
- **1** - A planilha, que deve conter duas colunas – a primeira delas deve ter o código do produto e a segunda, a quantidade que deve ser adicionada ao item.
+ **1** - A planilha, que deve conter duas colunas. A primeira coluna deve conter o código do produto, e a segunda coluna deve conter a quantidade que deve ser adicionada ao item.
 
  **2** - A tabela de preço que deseja utilizar.
 
