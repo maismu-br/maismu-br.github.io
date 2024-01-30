@@ -221,6 +221,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://maismu-br.github.io/ti/mercos/mercos_atendimento/</loc>
+         <lastmod>2024-01-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://maismu-br.github.io/ti/mercos/pedidos_via_planilha/</loc>
          <lastmod>2024-01-30</lastmod>
          <changefreq>daily</changefreq>
