@@ -42,6 +42,7 @@ nav:
                         - Aplicativo:
                                 - Lançamento de Pedidos: ti/mercos/aplicativo_lancar_pedido.md
                                 - Enviando Pedidos para Faturamento: ti/mercos/aplicativo_faturamento.md
+                                - Registro de Atendimento: ti/mercos/mercos_atendimento.md
                                 - Sincronização: ti/mercos/aplicativo_sincronizar.md
                 - Segurança:
                         - Alterar Senha:
