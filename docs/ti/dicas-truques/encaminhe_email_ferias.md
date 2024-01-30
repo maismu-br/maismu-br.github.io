@@ -1,0 +1,1 @@
+![férias](/assets/images/emcaminhe_email_ferias.png#center)
