@@ -2,11 +2,11 @@
 
 1. Na guia principal, clique em **Clientes**;
 
-2. Selecione o cliente;
+2. Pesquise e selecione o cliente;
 
 3. Clique em **Registrar atendimento**;
 
-4. Selecione seu **Meio de Contato**, o **Tipo do atendimento** e **Descreva os detalhes do atendimento**;
+4. Selecione seu **Meio de contato**, o **Tipo do atendimento** e **Descreva os detalhes do atendimento**;
 
 5. Clique em **Salvar**.
 
