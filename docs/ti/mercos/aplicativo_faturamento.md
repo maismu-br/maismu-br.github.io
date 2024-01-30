@@ -8,7 +8,7 @@ O aplicativo Mercos funciona também sem conexão a internet, ou seja, permite a
 
 2. Clique sobre o pedido que deseja enviar;
 
-3. Ao fim da tela basta clicar em Enviar Online;
+3. Ao fim da tela basta clicar em Enviar Online.
 
 ![aplicativo1](/assets/images/aplicativomercos1.gif#center)
 
