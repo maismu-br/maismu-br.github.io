@@ -1,4 +1,4 @@
-# Registro de Visitas e Atendimentos
+# Registro de visitas e atendimentos
 
 1. Na guia principal, clique em **Clientes**;
 
@@ -10,10 +10,10 @@
 
 5. Clique em **Salvar**.
 
-### Celular
+### No celular
 
 ![celular](/assets/images/mercos-atendimento-celular.gif#center)
 
-### Navegador
+### No navegador
 
 ![navegador](/assets/images/mercos-atendimento-navegador.gif#center)
