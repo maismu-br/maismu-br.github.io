@@ -4,8 +4,6 @@
 
 A `Central de Serviços` é um ponto centralizado de contato para esclarecimento de dúvidas, solicitação de serviços, entre outros processos relacionados. Ela é utilizada tanto por funcionários quanto por clientes da empresa. A Central de Serviços de TI, é uma estrutura completa para atender demandas dos colaboradores e parceiros do negócio, ela `centraliza as demandas e incidentes relacionados à T.I.` em um só lugar.
 
-![Central de Serviços](https://portal.prodam.sp.gov.br/wp-content/uploads/2021/02/220221_Default-Site-Nova-Central-de-Servicos.jpg#center)
-
 ### O que é um Service Desk?
 O **Service Desk** é uma unidade funcional composta por uma equipe dedicada, responsável por uma variedade de atividades relacionadas aos `serviços de TI` que são fornecidos aos colaboradores, empresas e parceiros da **Mais Mu**. O papel principal do Service Desk é centralizar demandas e incidentes relacionados à T.I. em um só lugar. Assim, registra e monitora essas atividades com o objetivo de solucioná-las e evitar que se repitam.
 
