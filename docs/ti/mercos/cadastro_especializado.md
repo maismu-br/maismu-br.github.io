@@ -4,25 +4,27 @@
 
 ### Informações Obrigatórias
 
-Dados Cadastrais
+**Dados Cadastrais**
 
 - Nome (Razão Social)
 - Fantasia
     - Especificar a unidade para redes
         - ex.: Corpo e Vida - Plaza Sul
 
-Código
+{c:red}**Código**{/c}
 
-- Bodyshop
-- Natural
-- Key Account XZ (sigla da rede)
+- **Bodyshop**
+- **Natural**
+- **Key Account XZ (sigla da rede)**
     - ex.: Rede Corpo e Vida: Key Account CV (sem traço devido ao limite de caracteres)
 - CPF/CNPJ
 - IE
 
-obs - (Clicar em Importar endereço da SEFAZ depois de colocar o CNPJ para completar endereço e IEautomaticamente)
+!!! note warning "Importante."
 
-Contato
+    Clicar em **Importar endereço da SEFAZ** depois de colocar o CNPJ para completar endereço e IEautomaticamente.
+
+**Contato**
 
 - Nome do cliente
 - Em pessoa de contato: Cliente
@@ -30,13 +32,13 @@ Contato
 - E-Mail para envio da NFe
     - ○ Representes colocar e-mail pessoal para receber NFe Dados adicionais
 
-Dados adicionais
+**Dados adicionais**
 
-- Tipo de Contato: Canal - Especializado
+- Tipo de Contato: {c:red}Canal - Especializado{/c}
 
 img
 
-- Vendedor correto!!!!
+- {c:red}Vendedor correto{/c}
 - Observações informadas
 
 ## Mercos
@@ -48,11 +50,13 @@ img
 - Fantasia (igual cadastrado no Bling e normalmente em MAIÚSCULO)
     - ex.: CORPO E VIDA - PLAZA SUL
 - IE
-- Segmento - Canal: Especializado
+- Segmento - {c:red}Canal: Especializado{/c}
 
 img
 
 - Endereço
 - Contato
 
-obs - Troca de tabela de preços falar com a T.I.
+!!! note info "Trocar tabela de preço:"
+
+    Solicite para a equipe de Dados & Tec via: suporte.ti@maismu.com.br
