@@ -1,8 +1,6 @@
 # Manual Cadastro de Clientes - Especializado
 
-## Bling
-
-### Informações Obrigatórias
+## Bling - Informações Obrigatórias
 
 **Dados Cadastrais**
 
@@ -11,11 +9,11 @@
     - Especificar a unidade para redes
         - ex.: Corpo e Vida - Plaza Sul
 
-{c:red}**Código**{/c}
+**Código**
 
-- **Bodyshop**
-- **Natural**
-- **Key Account XZ (sigla da rede)**
+- Bodyshop
+- Natural
+- Key Account XZ (sigla da rede)
     - ex.: Rede Corpo e Vida: Key Account CV (sem traço devido ao limite de caracteres)
 - CPF/CNPJ
 - IE
@@ -34,29 +32,27 @@
 
 **Dados adicionais**
 
-- Tipo de Contato: {c:red} Canal - Especializado {/c}
+- Tipo de Contato: **Canal - Especializado**
 
-img
+![exp1](/assets/images/especializado1.pngg#center)
 
-- {c:red}Vendedor correto{/c}
+- Vendedor correto
 - Observações informadas
 
-## Mercos
-
-### Informações Obrigatórias
+## Mercos - Informações Obrigatórias
 
 - CNPJ/ CPF
 - Razão Social
 - Fantasia (igual cadastrado no Bling e normalmente em MAIÚSCULO)
     - ex.: CORPO E VIDA - PLAZA SUL
 - IE
-- Segmento - {c:red}Canal: Especializado{/c}
+- Segmento - **Canal: Especializado**
 
-img
+![exp1](/assets/images/especializado2.pngg#center)
 
 - Endereço
 - Contato
 
 !!! note info "Trocar tabela de preço:"
 
-    Solicite para a equipe de Dados & Tec via: suporte.ti@maismu.com.br
+    Solicite para a equipe de Dados & Tec, via: suporte.ti@maismu.com.br
