@@ -34,7 +34,7 @@
 
 **Dados adicionais**
 
-- Tipo de Contato: {c:red}Canal - Especializado{/c}
+- Tipo de Contato: {c:red} Canal - Especializado {/c}
 
 img
 
