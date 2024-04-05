@@ -2,6 +2,8 @@
 
 ## Bling
 
+### Informações Obrigatórias
+
 Dados Cadastrais
 
 - Nome (Razão Social)
@@ -38,3 +40,19 @@ img
 - Observações informadas
 
 ## Mercos
+
+### Informações Obrigatórias
+
+- CNPJ/ CPF
+- Razão Social
+- Fantasia (igual cadastrado no Bling e normalmente em MAIÚSCULO)
+    - ex.: CORPO E VIDA - PLAZA SUL
+- IE
+- Segmento - Canal: Especializado
+
+img
+
+- Endereço
+- Contato
+
+obs - Troca de tabela de preços falar com a T.I.
