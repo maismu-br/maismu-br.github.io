@@ -34,7 +34,7 @@
 
 - Tipo de Contato: **Canal - Especializado**
 
-![exp1](/assets/images/especializado1.pngg#center)
+![especializado1](/assets/images/especializado1.png#center)
 
 - Vendedor correto
 - Observações informadas
@@ -48,7 +48,7 @@
 - IE
 - Segmento - **Canal: Especializado**
 
-![exp1](/assets/images/especializado2.pngg#center)
+![especializado2](/assets/images/especializado2.png#center)
 
 - Endereço
 - Contato
