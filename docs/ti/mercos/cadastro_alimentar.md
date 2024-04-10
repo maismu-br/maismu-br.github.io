@@ -8,21 +8,23 @@
 - Fantasia
     - Especificar a unidade para redes
         - ex.: SUPERMERCADO X - Vital
-
-**Código (Alimentar)**
-    - Bronze
-    - Prata
-    - Ouro
-    - Key Account
-
-**Código (Conveniência)**
-    - Conv. Posto
-    - Conv. P. Suor
-    - Conv. M. Market
-    - Conv. Doces
-    - Conv. Outros
 - CPF/CNPJ
 - IE
+
+**Código (Alimentar)**
+
+- Bronze
+- Prata
+- Ouro
+- Key Account
+
+**Código (Conveniência)**
+
+- Conv. Posto
+- Conv. P. Suor
+- Conv. M. Market
+- Conv. Doces
+- Conv. Outros
 
 !!! note warning "Importante."
 

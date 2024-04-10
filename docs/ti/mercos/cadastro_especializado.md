@@ -8,14 +8,15 @@
 - Fantasia
     - Especificar a unidade para redes
         - ex.: Corpo e Vida - Plaza Sul
-
-**Código**
-    - Bodyshop
-    - Natural
-    - Key Account XZ (sigla da rede)
-        - ex.: Rede Corpo e Vida: Key Account CV (sem traço devido ao limite de caracteres)
 - CPF/CNPJ
 - IE
+
+**Código**
+
+- Bodyshop
+- Natural
+- Key Account XZ (sigla da rede)
+    - ex.: Rede Corpo e Vida: Key Account CV (sem traço devido ao limite de caracteres)
 
 !!! note warning "Importante."
 

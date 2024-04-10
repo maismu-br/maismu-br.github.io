@@ -8,13 +8,14 @@
 - Fantasia
     - Especificar a unidade para redes
         - ex.: DROGARIA IGUATEMI - FARIA LIMA
-
-**Código (Alimentar)**
-    - Bronze
-    - Prata
-    - Ouro
 - CPF/CNPJ
 - IE
+
+**Código (Alimentar)**
+
+- Bronze
+- Prata
+- Ouro
 
 !!! note warning "Importante."
 

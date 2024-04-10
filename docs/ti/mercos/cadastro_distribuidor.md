@@ -8,13 +8,14 @@
 - Fantasia
     - Especificar a unidade para redes
         - ex.: DISTRIMAX
-
-**Código**
-    - Bronze
-    - Prata
-    - Ouro
 - CPF/CNPJ
 - IE
+
+**Código**
+
+- Bronze
+- Prata
+- Ouro
 
 !!! note warning "Importante."
 

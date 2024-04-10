@@ -8,11 +8,12 @@
 - Fantasia
     - Especificar a unidade para redes
         - ex.: IFOOD GUARULHOS
-
-**Código (Alimentar)**
-    - ECOM
 - CPF/CNPJ
 - IE
+
+**Código (Alimentar)**
+
+- ECOM
 
 !!! note warning "Importante."
 
