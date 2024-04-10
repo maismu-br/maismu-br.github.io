@@ -1,4 +1,4 @@
-# Manual Cadastro de Clientes - Especializado
+# Manual Cadastro de Clientes - Alimentar
 
 ## Bling - Informações Obrigatórias
 
@@ -7,15 +7,23 @@
 - Nome (Razão Social)
 - Fantasia
     - Especificar a unidade para redes
-        - ex.: Corpo e Vida - Plaza Sul
+        - ex.: SUPERMERCADO X - Vital
 
-**Código**
+**Código (Alimentar)**
 
-- Bodyshop
-- Natural
-- Key Account XZ (sigla da rede)
-    - ex.: Rede Corpo e Vida: Key Account CV (sem traço devido ao limite de caracteres)
-    
+- Bronze
+- Prata
+- Ouro
+- Key Account
+
+**Código (Conveniência)**
+
+- Conv. Posto
+- Conv. P. Suor
+- Conv. M. Market
+- Conv. Doces
+- Conv. Outros
+
 - CPF/CNPJ
 - IE
 
@@ -33,9 +41,9 @@
 
 **Dados adicionais**
 
-- Tipo de Contato: **Canal - Especializado**
+- Tipo de Contato: **Canal - Alimentar**
 
-![especializado1](/assets/images/especializado1.png#left)
+![especializado1](/assets/images/alimentar1.png#left)
 
 - Vendedor correto
 - Observações informadas
@@ -45,9 +53,9 @@
 - CNPJ/ CPF
 - Razão Social
 - Fantasia (igual cadastrado no Bling e normalmente em MAIÚSCULO)
-    - ex.: CORPO E VIDA - PLAZA SUL
+    - ex.:  SUPERMERCADO X - VITAL
 - IE
-- Segmento - **Canal: Especializado**
+- Segmento - **Canal: Alimentar**
 
 ![especializado2](/assets/images/canalmercos.png#left)
 

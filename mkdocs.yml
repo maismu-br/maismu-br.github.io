@@ -41,6 +41,10 @@ nav:
                         - Indicadores: ti/mercos/indicadores.md
                         - Manual de Cadastro de Cliente:
                                 - Especializado: ti/mercos/cadastro_especializado.md
+                                - Distribuidor: ti/mercos/cadastro_distribuidor.md
+                                - Alimentar: ti/mercos/cadastro_alimentar.md
+                                - Farma: ti/mercos/cadastro_farma.md
+                                - Ecom: ti/mercos/cadastro_ecom.md
                         - Aplicativo:
                                 - Lançamento de Pedidos: ti/mercos/aplicativo_lancar_pedido.md
                                 - Enviando Pedidos para Faturamento: ti/mercos/aplicativo_faturamento.md

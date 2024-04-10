@@ -1,4 +1,4 @@
-# Manual Cadastro de Clientes - Especializado
+# Manual Cadastro de Clientes - Ecom
 
 ## Bling - Informações Obrigatórias
 
@@ -7,15 +7,12 @@
 - Nome (Razão Social)
 - Fantasia
     - Especificar a unidade para redes
-        - ex.: Corpo e Vida - Plaza Sul
+        - ex.: IFOOD GUARULHOS
 
-**Código**
+**Código (Alimentar)**
 
-- Bodyshop
-- Natural
-- Key Account XZ (sigla da rede)
-    - ex.: Rede Corpo e Vida: Key Account CV (sem traço devido ao limite de caracteres)
-    
+- ECOM
+
 - CPF/CNPJ
 - IE
 
@@ -33,9 +30,9 @@
 
 **Dados adicionais**
 
-- Tipo de Contato: **Canal - Especializado**
+- Tipo de Contato: **Canal - E-commerce**
 
-![especializado1](/assets/images/especializado1.png#left)
+![especializado1](/assets/images/ecom1.png#left)
 
 - Vendedor correto
 - Observações informadas
@@ -45,9 +42,10 @@
 - CNPJ/ CPF
 - Razão Social
 - Fantasia (igual cadastrado no Bling e normalmente em MAIÚSCULO)
-    - ex.: CORPO E VIDA - PLAZA SUL
+    - ex.: IFOOD GUARULHOS
+
 - IE
-- Segmento - **Canal: Especializado**
+- Segmento - **Canal: E-commerce**
 
 ![especializado2](/assets/images/canalmercos.png#left)
 

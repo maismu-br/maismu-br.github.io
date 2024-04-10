@@ -1,4 +1,4 @@
-# Manual Cadastro de Clientes - Especializado
+# Manual Cadastro de Clientes - Farma
 
 ## Bling - Informações Obrigatórias
 
@@ -7,15 +7,14 @@
 - Nome (Razão Social)
 - Fantasia
     - Especificar a unidade para redes
-        - ex.: Corpo e Vida - Plaza Sul
+        - ex.: DROGARIA IGUATEMI - FARIA LIMA
 
-**Código**
+**Código (Alimentar)**
 
-- Bodyshop
-- Natural
-- Key Account XZ (sigla da rede)
-    - ex.: Rede Corpo e Vida: Key Account CV (sem traço devido ao limite de caracteres)
-    
+- Bronze
+- Prata
+- Ouro
+
 - CPF/CNPJ
 - IE
 
@@ -33,9 +32,9 @@
 
 **Dados adicionais**
 
-- Tipo de Contato: **Canal - Especializado**
+- Tipo de Contato: **Canal - Farma**
 
-![especializado1](/assets/images/especializado1.png#left)
+![especializado1](/assets/images/farma1.png#left)
 
 - Vendedor correto
 - Observações informadas
@@ -45,9 +44,10 @@
 - CNPJ/ CPF
 - Razão Social
 - Fantasia (igual cadastrado no Bling e normalmente em MAIÚSCULO)
-    - ex.: CORPO E VIDA - PLAZA SUL
+    - ex.: DROGARIA IGUATEMI - FARIA LIMA
+
 - IE
-- Segmento - **Canal: Especializado**
+- Segmento - **Canal: Farma**
 
 ![especializado2](/assets/images/canalmercos.png#left)
 
