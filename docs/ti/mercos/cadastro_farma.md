@@ -10,11 +10,9 @@
         - ex.: DROGARIA IGUATEMI - FARIA LIMA
 
 **Código (Alimentar)**
-
-- Bronze
-- Prata
-- Ouro
-
+    - Bronze
+    - Prata
+    - Ouro
 - CPF/CNPJ
 - IE
 

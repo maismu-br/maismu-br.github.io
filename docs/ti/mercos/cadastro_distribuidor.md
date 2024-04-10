@@ -10,11 +10,9 @@
         - ex.: DISTRIMAX
 
 **Código**
-
-- Bronze
-- Prata
-- Ouro
-
+    - Bronze
+    - Prata
+    - Ouro
 - CPF/CNPJ
 - IE
 

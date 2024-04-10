@@ -10,9 +10,7 @@
         - ex.: IFOOD GUARULHOS
 
 **Código (Alimentar)**
-
-- ECOM
-
+    - ECOM
 - CPF/CNPJ
 - IE
 

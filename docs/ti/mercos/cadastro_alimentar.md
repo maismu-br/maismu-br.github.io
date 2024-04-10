@@ -10,20 +10,17 @@
         - ex.: SUPERMERCADO X - Vital
 
 **Código (Alimentar)**
-
-- Bronze
-- Prata
-- Ouro
-- Key Account
+    - Bronze
+    - Prata
+    - Ouro
+    - Key Account
 
 **Código (Conveniência)**
-
-- Conv. Posto
-- Conv. P. Suor
-- Conv. M. Market
-- Conv. Doces
-- Conv. Outros
-
+    - Conv. Posto
+    - Conv. P. Suor
+    - Conv. M. Market
+    - Conv. Doces
+    - Conv. Outros
 - CPF/CNPJ
 - IE
 
