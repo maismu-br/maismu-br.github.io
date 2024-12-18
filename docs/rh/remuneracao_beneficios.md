@@ -58,7 +58,7 @@ Dividido em duas parcelas:
 
 ![bonus](/assets/images/totalpass.png#center)
 
-### [Reembolso KM](https://forms.gle/YcGAh3oiK2eeDP1y8)!
+### Reembolso KM
 
 - A cada 01 km rodado será reembolsado R$ 1,00!
 - Este reembolso será feito pela Swile todo dia 05 do mês.
