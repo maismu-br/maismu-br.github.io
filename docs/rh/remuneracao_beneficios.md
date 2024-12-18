@@ -1,6 +1,5 @@
 # Remuneração e Benefícios
 
-
 ### Salário
 
 - Adiantamento: 60% no dia 20 de cada mês;
@@ -50,7 +49,7 @@ Dividido em duas parcelas:
 
 ### MUversário
 
-- Nada como comemorar seu aniversário por tempo de casa com um cupom de R$300,00 em nossa [Loja Mais Mu](https://www.lojamaismu.com.br/)! 
+- Nada como comemorar seu aniversário por tempo de casa com um cupom de R$300,00 em nossa [Loja Mais Mu](https://www.lojamaismu.com.br/)
 
 ### TotalPass
 
@@ -58,7 +57,7 @@ Dividido em duas parcelas:
 
 ![bonus](/assets/images/totalpass.png#center)
 
-### Reembolso KM
+### [Reembolso KM](https://forms.gle/YcGAh3oiK2eeDP1y8)
 
 - A cada 01 km rodado será reembolsado R$ 1,00!
 - Este reembolso será feito pela Swile todo dia 05 do mês.

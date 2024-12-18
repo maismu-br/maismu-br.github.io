@@ -62,7 +62,7 @@ nav:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
         - RH:
-                - Remuneração e Benefícios: rh/remuneracao_beneficios.md
+                #- Remuneração e Benefícios: rh/remuneracao_beneficios.md
                 #- Benefícios: 
                         #- Swile: rh/beneficios/swile.md
                         #- Vale Transporte: rh/beneficios/vale_transporte.md
