@@ -28,10 +28,19 @@ jobs:
           restore-keys: |
             mkdocs-material-
       
-      - name: 🔨 Build Project
+      - name: 🔨 Install dependencies
         run: |
-          pip install mkdocs-material
+          pip install --upgrade --force-reinstall mkdocs-material
+          pip install mkdocs-material-extensions
           pip install mkdocs-minify-plugin
-          pip install pymdown-extensions
+          pip install mkdocs-autorefs
           pip install mkdocs-git-revision-date-localized-plugin
-          mkdocs gh-deploy --force
+          pip install mkdocs-glightbox
+          pip install mkdocs-git-authors-plugin
+          pip install mkdocs-markdownextradata-plugin
+
+      - name: 🔨 Clean
+        run: mkdocs build -c
+
+      - name: 🤳 Deploy website
+        run: mkdocs gh-deploy --force
