@@ -27,8 +27,8 @@
 
 ### Política de Comunicação
 
-|Recomendação|Descrição|
-|------------|---------|
+|  |Descrição|
+|--|---------|
 |✅|Use os canais oficiais da empresa para comunicações relacionadas ao trabalho. Nosso canal oficial é o Gmail.|
 |✅|Responda a mensagens e e-mails idealmente no mesmo dia. Caso não tenha a resposta ou vá demorar, sinalize isso o quanto antes.|
 |✅|Use como padrão reuniões até 45 minutos. Claro que há exceções, mas estamos falando do padrão para reuniões de alinhamento.|
