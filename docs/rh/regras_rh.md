@@ -41,33 +41,37 @@
 
 ### Viagens pela Mais Mu
 
-✅ Sempre reserve voos e hospedagem através dos canais aprovados pela empresa (ONFLY);
-✅ Mantenha todos os recibos relacionados às despesas de viagem, seja para reembolso ou prestação de contas no Conta Simples;
-✅ Comunique antecipadamente qualquer alteração ou extensão de sua viagem;
-❌ Não exceda o orçamento estabelecido para sua viagem;
-❌ Evite despesas pessoais com cartão da empresa sem o devido esclarecimento;
-❌ Não consuma álcool em excesso ou parta para atividades de risco durante as viagens de trabalho;
-❌ Frigobar é por sua conta, com exceção da água. Hidrate-se à vontade!
-⚠️ Seus gastos pré aprovados com alimentação são: para PJ R$120,00 por dia. Para CLT se mantém os R$120,00 sendo que nos dias úteis são R$40,00 VR + R$80,00 Conta Simples e finais de semana R$100,00 Conta Simples.
-⚠️ Priorize hotéis com café da manhã incluso. Se não for possível, adicione R$30,00 ao seu gasto diário de alimentação pelo Conta Simples.
-⚠️ Transporte nas viagens. A não ser que tenha alugado um carro, use sua conta corporativa do Uber para seus compromissos de trabalho. O custeio de transporte para deslocamentos pessoais durante a viagem é por sua conta.
+|  |Descrição|
+|--|---------|
+|✅|Sempre reserve voos e hospedagem através dos canais aprovados pela empresa (ONFLY).|
+|✅|Mantenha todos os recibos relacionados às despesas de viagem, seja para reembolso ou prestação de contas no Conta Simples.|
+|✅|Comunique antecipadamente qualquer alteração ou extensão de sua viagem.|
+|❌|Não exceda o orçamento estabelecido para sua viagem.|
+|❌|Evite despesas pessoais com cartão da empresa sem o devido esclarecimento.|
+|❌|Não consuma álcool em excesso ou parta para atividades de risco durante as viagens de trabalho.|
+|❌|Frigobar é por sua conta, com exceção da água. Hidrate-se à vontade!|
+|⚠️|Seus gastos pré aprovados com alimentação são: para PJ R$120,00 por dia. Para CLT se mantém os R$120,00 sendo que nos dias úteis são R$40,00 VR + R$80,00 Conta Simples e finais de semana R$100,00 Conta Simples.|
+|⚠️|Priorize hotéis com café da manhã incluso. Se não for possível, adicione R$30,00 ao seu gasto diário de alimentação pelo Conta Simples.|
+|⚠️|Transporte nas viagens. A não ser que tenha alugado um carro, use sua conta corporativa do Uber para seus compromissos de trabalho. O custeio de transporte para deslocamentos pessoais durante a viagem é por sua conta.|
 
 ### Carro pela Empresa
 
-✅ O carro é para uso profissional, mas você pode usá-lo no seu tempo livre (inclusive finais de semana) para fins pessoais.
-✅ Tenha a sua habilitação em dia.
-✅ Cada carro vai ter um cartão do Conta Simples para gastos de lavagem e estacionamento.
-✅ Cada carro possui o “Sem Parar”, que deverá ser utilizado para estacionamentos, gastos de combustível e pedágios;
-❌ Evite transportar pessoas não relacionadas ao trabalho ou carga não autorizada. Nunca exerça atividade remunerada (frete, Uber) com o carro da empresa.
-❌ Não exceda os limites de velocidade e siga todas as leis de trânsito. Multas vão gerar advertências e advertências podem causar demissão por Justa Causa.
-❌ Multas serão descontadas na folha de pagamento no mês seguinte;
-❌ É proibido o consumo de álcool ou substâncias que alterem a capacidade de dirigir. Isso pode gerar demissão por Justa Causa.
-❌ Nunca empreste ou alugue o veículo da empresa para terceiros.
-⚠️ Mantenha o veículo limpo e organizado. Faça lavagem pelo menos a cada 15 dias.
-⚠️ Priorize parar o carro em estacionamentos e evite parar na rua.
-⚠️ Informe imediatamente o RH sobre qualquer acidente ou dano ao veículo. Também entre em contato com o Localiza Assistente Clientes 0800 979 20 20. 
-⚠️ Nem todos os cargos têm direito ao carro da empresa.
-⚠️ Avisar o time de RH a cada 09 quilômetros rodados para revisão.
+|  |Descrição|
+|--|---------|
+|✅|O carro é para uso profissional, mas você pode usá-lo no seu tempo livre (inclusive finais de semana) para fins pessoais.|
+|✅|Tenha a sua habilitação em dia.|
+|✅|Cada carro vai ter um cartão do Conta Simples para gastos de lavagem e estacionamento.|
+|✅|Cada carro possui o “Sem Parar”, que deverá ser utilizado para estacionamentos, gastos de combustível e pedágios.|
+|❌|Evite transportar pessoas não relacionadas ao trabalho ou carga não autorizada. Nunca exerça atividade remunerada (frete, Uber) com o carro da empresa.|
+|❌|Não exceda os limites de velocidade e siga todas as leis de trânsito. Multas vão gerar advertências e advertências podem causar demissão por Justa Causa.|
+|❌|Multas serão descontadas na folha de pagamento no mês seguinte.|
+|❌|É proibido o consumo de álcool ou substâncias que alterem a capacidade de dirigir. Isso pode gerar demissão por Justa Causa.|
+|❌|Nunca empreste ou alugue o veículo da empresa para terceiros.|
+|⚠️|Mantenha o veículo limpo e organizado. Faça lavagem pelo menos a cada 15 dias.|
+|⚠️|Priorize parar o carro em estacionamentos e evite parar na rua.|
+|⚠️|Informe imediatamente o RH sobre qualquer acidente ou dano ao veículo. Também entre em contato com o Localiza Assistente Clientes 0800 979 20 20.|
+|⚠️|Nem todos os cargos têm direito ao carro da empresa.|
+|⚠️|Avisar o time de RH a cada 09 quilômetros rodados para revisão.|
 
 ### Uso do Pampas
 
