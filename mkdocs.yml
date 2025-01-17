@@ -61,6 +61,7 @@ nav:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
         - RH:
+                - Remuneração e Benefícios: rh/beneficios/remuneracao_beneficios.md
                 - Benefícios: 
                         - Swile: rh/beneficios/swile.md
                         - Vale Transporte: rh/beneficios/vale_transporte.md
@@ -235,4 +236,3 @@ markdown_extensions:
         - pymdownx.tasklist:
                 custom_checkbox: true
         - pymdownx.tilde
-        
