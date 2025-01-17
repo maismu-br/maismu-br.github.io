@@ -27,15 +27,16 @@
 
 ### Política de Comunicação
 
-✅ Use os canais oficiais da empresa para comunicações relacionadas ao trabalho. Nosso canal oficial é o Gmail.
-✅ Responda a mensagens e e-mails idealmente no mesmo dia. Caso não tenha a resposta ou vá demorar, sinalize isso o quanto antes.
-✅ Use como padrão reuniões até 45 minutos. Claro que há exceções, mas estamos falando do padrão para reuniões de alinhamento.
-✅ Mantenha a sua agenda atualizada. Assim todos sabem quando podem ou não marcar uma reunião com você. Importante marcar os momentos de almoço e quando está fora do escritório.
-✅ Mostre onde você está na sua agenda, ou seja, se trabalha de casa, no escritório ou na rua.
-❌ Evite agendar reuniões nos horários de almoço, que são das 12h às 14h.
-❌ Evite discutir assuntos políticos, religiosos ou controversos em canais oficiais da empresa.
-❌ Não envie documentos com dados sensíveis por WhatsApp. Atenção à LGPD.
-❌ Não compartilhe informações confidenciais ou proprietárias fora da empresa.
+|--|--|
+|✅|Use os canais oficiais da empresa para comunicações relacionadas ao trabalho. Nosso canal oficial é o Gmail.|
+|✅|Responda a mensagens e e-mails idealmente no mesmo dia. Caso não tenha a resposta ou vá demorar, sinalize isso o quanto antes.|
+|✅|Use como padrão reuniões até 45 minutos. Claro que há exceções, mas estamos falando do padrão para reuniões de alinhamento.|
+|✅|Mantenha a sua agenda atualizada. Assim todos sabem quando podem ou não marcar uma reunião com você. Importante marcar os momentos de almoço e quando está fora do escritório.|
+|✅|Mostre onde você está na sua agenda, ou seja, se trabalha de casa, no escritório ou na rua.|
+|❌|Evite agendar reuniões nos horários de almoço, que são das 12h às 14h.|
+|❌|Evite discutir assuntos políticos, religiosos ou controversos em canais oficiais da empresa.|
+|❌|Não envie documentos com dados sensíveis por WhatsApp. Atenção à LGPD.|
+|❌|Não compartilhe informações confidenciais ou proprietárias fora da empresa.|
 
 ### Viagens pela Mais Mu
 
