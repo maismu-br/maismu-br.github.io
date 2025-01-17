@@ -10,7 +10,8 @@
 -	Nossos colaboradores também são nossos influs! Compartilhe o seu cupom de 10% com seus amigos e familiares e receba 10% de comissão das vendas feitas no seu cupom no trimestre.
 -	A comissão será depositada via Swile no dia 10 no mês subsequente ao término do trimestre; 
 -	Só serão depositadas comissões de cupons que tenham vendido no mínimo R$300,00 no período.
--	Outras parcerias: 
+
+### Outras parcerias: 
 
 |Onde|Como Usar|
 |----|---------|
