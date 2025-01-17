@@ -1,11 +1,11 @@
 # Cupons, Descontos e Parcerias
 
-### Cupom colaborador - Loja
+### Cupom Colaborador - Loja
 
 -	Nossos colaboradores têm desconto! Use o cupom **GALERAMAISMU** na nossa lojamaismu e tenha 35% de desconto em todos os produtos.
 -	O cupom é atrelado ao seu e-mail de domínimo @maismu.com.br e de uso individual, não pode ser compartilhado, ok? Faça seu cadastro e aproveite!
 
-### Cupom colaborador Influ - Loja
+### Cupom Colaborador Influ - Loja
 
 -	Nossos colaboradores também são nossos influs! Compartilhe o seu cupom de 10% com seus amigos e familiares e receba 10% de comissão das vendas feitas no seu cupom no trimestre.
 -	A comissão será depositada via Swile no dia 10 no mês subsequente ao término do trimestre; 

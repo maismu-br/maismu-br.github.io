@@ -39,7 +39,7 @@
 |❌|Não envie documentos com dados sensíveis por WhatsApp. Atenção à LGPD.|
 |❌|Não compartilhe informações confidenciais ou proprietárias fora da empresa.|
 
-### Viagens pela Mais Mu
+### Viagens Pela Mais Mu
 
 |  |Descrição|
 |--|---------|
@@ -54,7 +54,7 @@
 |⚠️|Priorize hotéis com café da manhã incluso. Se não for possível, adicione R$30,00 ao seu gasto diário de alimentação pelo Conta Simples.|
 |⚠️|Transporte nas viagens. A não ser que tenha alugado um carro, use sua conta corporativa do Uber para seus compromissos de trabalho. O custeio de transporte para deslocamentos pessoais durante a viagem é por sua conta.|
 
-### Carro pela Empresa
+### Carro Pela Empresa
 
 |  |Descrição|
 |--|---------|
