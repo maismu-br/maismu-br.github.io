@@ -67,6 +67,7 @@ nav:
                         - Reprocessar NF Após Ajuste: sap/reprocessar_nf.md
                         - Ajuste da Determinação Fiscal: sap/ajuste_determinação_fiscal.md
                         - Emitir Razão por Centro de Custo: sap/razao_por_centro_custo.md
+                        - LCM de Parceiro de Negócio: sap/lcm_para_pn.md
         - RH:
                 - Regras do Jogo: rh/regras_rh.md
                 - Remuneração e Benefícios: rh/remuneracao_beneficios.md
