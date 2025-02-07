@@ -61,13 +61,15 @@ nav:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
         - SAP:
-                - Passo a Passos:
+                - Passo a Passos: 
                         - Cadastro item de Serviço: sap/cadastro_item_servico.md
                         - Envio Automático de DANFE: sap/email_nf_sap.md
                         - Reprocessar NF Após Ajuste: sap/reprocessar_nf.md
                         - Ajuste da Determinação Fiscal: sap/ajuste_determinação_fiscal.md
                         - Emitir Razão por Centro de Custo: sap/razao_por_centro_custo.md
                         - LCM de Parceiro de Negócio: sap/lcm_para_pn.md
+                - Fluxos de Processo:
+                        - Recebimento de Produto Acabado: sap/recebimento_produto_acabado.md
         - RH:
                 - Regras do Jogo: rh/regras_rh.md
                 - Remuneração e Benefícios: rh/remuneracao_beneficios.md
