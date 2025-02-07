@@ -64,6 +64,7 @@ nav:
                 - Passo a Passos:
                         - Envio Automático de DANFE: sap/email_nf_sap.md
                         - Ajuste da Determinação Fiscal: sap/ajuste_determinação_fiscal.md
+                        - Cadastro item de Serviço: sap/cadastro_item_servico.md
         - RH:
                 - Regras do Jogo: rh/regras_rh.md
                 - Remuneração e Benefícios: rh/remuneracao_beneficios.md
