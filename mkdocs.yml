@@ -61,8 +61,9 @@ nav:
                 #        Submenu exemplo: suporte/faq.md
                 #- Ajuda: sobre.md
         - SAP:
-                - Passo a Passo:
+                - Passo a Passos:
                         - Envio Automático de DANFE: sap/email_nf_sap.md
+                        - Ajuste da Determinação Fiscal: sap/ajuste_determinação_fiscal.md
         - RH:
                 - Regras do Jogo: rh/regras_rh.md
                 - Remuneração e Benefícios: rh/remuneracao_beneficios.md
