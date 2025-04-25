@@ -9,7 +9,8 @@
 ![cadastro 2](/assets/images/cadastro_bonificacao_2.png#center)
 
 **3.** Selecionar o tipo do cliente (pessoa jurídica ou física)
-    3.1.  Preencher todos os campos obrigatórios (estarão marcados com “*”) e salvar
+
+3.1.  Preencher todos os campos obrigatórios (estarão marcados com “*”) e salvar
 
 Algumas observações importantes:
 

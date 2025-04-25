@@ -40,6 +40,7 @@ nav:
                         - Indicadores: ti/mercos/indicadores.md
                         - Manual de Pedidos de Bonificação:
                                 - Cadastrar Cliente: ti/mercos/cadastro_bonificacao.md
+                                - Criar Pedido: ti/mercos/criar_pedido_bonificacao.md
                         - Manual de Cadastro de Cliente PJ:
                                 - Especializado: ti/mercos/cadastro_especializado.md
                                 - Distribuidor: ti/mercos/cadastro_distribuidor.md
