@@ -38,7 +38,9 @@ nav:
                         - Criando Roteiro: ti/mercos/roteiro.md
                         - Importe Pedidos por Planilha: ti/mercos/pedidos_via_planilha.md
                         - Indicadores: ti/mercos/indicadores.md
-                        - Manual de Cadastro de Cliente:
+                        - Manual de Pedidos de Bonificação:
+                                - Cadastrar Cliente: ti/mercos/cadastro_bonificacao.md
+                        - Manual de Cadastro de Cliente PJ:
                                 - Especializado: ti/mercos/cadastro_especializado.md
                                 - Distribuidor: ti/mercos/cadastro_distribuidor.md
                                 - Alimentar: ti/mercos/cadastro_alimentar.md
