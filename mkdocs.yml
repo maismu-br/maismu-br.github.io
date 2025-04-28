@@ -75,6 +75,7 @@ nav:
                         - Emitir Razão por Centro de Custo: sap/razao_por_centro_custo.md
                         - LCM de Parceiro de Negócio: sap/lcm_para_pn.md
                         - Importar Licença: sap/importar_licenca.md
+                        - Configurar Pagamento por Data Fixa: sap/processo_configuracao_pagamento_data_fixa.md
                 - Fluxos de Processo:
                         - Recebimento de Produto Acabado: sap/recebimento_produto_acabado.md
         - RH:
