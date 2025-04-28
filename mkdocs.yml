@@ -17,6 +17,8 @@ copyright: © 2023 Company - Todos os direitos reservados
 nav:
         - TI:
                 - Introdução: ti/index.md
+                - Admissão:
+                        - Processo de Admissão: ti/admissao/processo_admissao_ti.md
                 - Suporte:
                         - A Importância de Reiniciar o PC: ti/suporte/reiniciar_pc.md
                         - Softwares Homologados: ti/suporte/softwares_homologados.md
