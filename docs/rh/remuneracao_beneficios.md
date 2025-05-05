@@ -45,7 +45,6 @@ Dividido em duas parcelas:
 
 - A Mais Mu oferece um dia off para comemorar seu aniversário!
 - Caso esse dia caia em algum feriado ou final de semana, você deve combinar com seu gestor o melhor dia dentro do mês para tirar essa folga.
-- Você ainda recebe um miMU nosso, um cupom de R$ 100,00 para resgatar em lojas da Smash (Centauro, Uber, Zé Delivery, Airbnb, etc).
 
 ### MUversário
 
