@@ -30,6 +30,7 @@
 
 |Regra de distribuição |Centro de custo|
 |----------------------|---------------|
+|2|Marketing - Loja|
 |15|Marketing|
 |16|Comercial Offline|
 |17|Comercial Online - Loja|
