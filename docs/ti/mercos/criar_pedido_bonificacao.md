@@ -28,8 +28,8 @@
 
 - Regra de distribuição: digite de acordo com o centro de custo
 
-|Regra de distribuição |Centro de custo|
-|----------------------|---------------|
+|Regra de distribuição|Centro de custo|
+|---------------------|---------------|
 |2|Marketing - Loja|
 |15|Marketing|
 |16|Comercial Offline|
