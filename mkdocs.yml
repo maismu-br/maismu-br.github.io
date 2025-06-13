@@ -80,7 +80,9 @@ nav:
                 - Fluxos de Processo:
                         - Recebimento de Produto Acabado: sap/recebimento_produto_acabado.md
         - RH:
-                - Regras do Jogo: rh/regras_rh.md
+                - Regras do Jogo: 
+                        - Regras do Jogo: rh/regras_rh.md
+                        - Política de Uso do Cartão Corporativo: rh/politica_cartao_corporativo.md.md
                 - Remuneração e Benefícios: rh/remuneracao_beneficios.md
                 - Cupons, Descontos e Parcerias: rh/cupons_desconto_parcerias.md
                 - Principais Ferramentas e Links: rh/ferramentas_links.md
