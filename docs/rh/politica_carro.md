@@ -48,7 +48,7 @@ Só podem dirigir os carros da empresa as pessoas com CNH válida e aprovadas em
 
 ### 6. Uso para Fins Pessoais
 
-**6.1.**Permitido nos finais de semana e feriados, desde que:
+**6.1.** Permitido nos finais de semana e feriados, desde que:
 
  - Dentro da quilometragem contratada;
  - O combustível seja pago pelo colaborador;
@@ -75,7 +75,7 @@ Só podem dirigir os carros da empresa as pessoas com CNH válida e aprovadas em
 
 ### 9. Seguro
 
-**9.1.** Os veículos são 100% segurados pela Localiza, com cobertura para terceiros via Zurich de até R$300.000,00 (ou R$500.000,00 com proteção especial).
+**9.1.** Os veículos são 100% segurados pela Localiza, com cobertura para terceiros via Zurich de até $300.000,00 (ou $500.000,00 com proteção especial).
 
 **9.2.** Em caso de sinistro:
 

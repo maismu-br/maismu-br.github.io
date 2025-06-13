@@ -88,6 +88,9 @@ Cada transação com o cartão deverá ser registrada com os seguintes dados:
 ### 8. Monitoramento, bloqueio e responsabilidades
 
 **8.1.** O time de Pessoas & Cultura enviará mensalmente aos líderes o extrato de gastos do seu centro de custo.
+
 **8.2.** Em caso de perda ou roubo, o colaborador deve informar imediatamente o time de Pessoas & Cultura para o bloqueio do cartão.
+
 **8.3.** Em caso de uso indevido, o cartão poderá ser bloqueado temporariamente ou cancelado.
+
 **8.4.** A gestão do orçamento de cada cartão é responsabilidade do diretor da área.
