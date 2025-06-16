@@ -20,7 +20,7 @@ Só podem dirigir os carros da empresa as pessoas com CNH válida e aprovadas em
  - Comunicar imediatamente o time de RH sobre qualquer avaria;
  - Em caso de abordagem policial relacionada à comunicação visual, acionar o RH ou Jurídico.
 
-**3.3.**Não é permitido personalizar o carro com itens não autorizados que comprometam a imagem institucional.
+**3.3.** Não é permitido personalizar o carro com itens não autorizados que comprometam a imagem institucional.
 
 ### 4. Ética e Comportamento no Trânsito
 
