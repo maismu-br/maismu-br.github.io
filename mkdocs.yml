@@ -124,6 +124,7 @@ nav:
         - Jurídico:
                 - Fluxo de Solicitação: juridico/fluxo_juridico.md
                 - Contrato Comercial: juridico/contrato_comercial.md
+                - Rescisão Representante: juridico/rescisão_representante.md
 
 # Configuration
 theme:
