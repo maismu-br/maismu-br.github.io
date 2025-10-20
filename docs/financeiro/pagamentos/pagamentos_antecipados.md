@@ -3,7 +3,7 @@
 !!! note warning "Importante."
 
     Temos uma categoria no **GLPI** para solicitações de **pagamentos antecipados**.
-    ![tesouraria1](/assets/images/categoria_pgt_antecipados.png#center)
+    ![tesouraria1](/assets/images/categoria_pgt_antecipados.png)
 
 Quando for necessário realizar o pagamento **antes de receber a nota**, é obrigatório abrir um chamado no **GLPI** utilizando essa categoria.  
 
