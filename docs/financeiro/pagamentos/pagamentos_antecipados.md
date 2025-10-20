@@ -1,13 +1,11 @@
-# Pagamentos antecipados
+# Pagamentos Antecipados
 
 !!! note warning "Importante."
 
-    Em caso de **pagamentos antecipados**, solicitar com no **mínimo 7 dias de antecedência** da primeira parcela, para o e-mail **financeiro@maismu.com.br** com uma breve descrição da despesa, data de pagamento e dados bancários ou boleto;
+    Temos uma categoria no **GLPI** para solicitações de **pagamentos antecipados**.
+    ![tesouraria1](/assets/images/categoria_pgt_antecipados.png#center)
 
- - Para o pagamento da segunda parcela basta enviar a nota pelo [forms](https://docs.google.com/forms/d/e/1FAIpQLSerzIlouy5DkisGHG8GG8hnIYg7KSi5jjxD2kX_8k0ctx7iVg/viewform) e na descrição **avisar que 50% do valor já foi pago**;
- - **Não haverá pagamento da segunda parcela sem recebimento do documento fiscal**;
+Quando for necessário realizar o pagamento **antes de receber a nota**, é obrigatório abrir um chamado no **GLPI** utilizando essa categoria.  
 
-!!! note info "Sobre o pagamento da segunda parcela:"
-
-    Em último caso, se o fornecedor recusar a emitir a nota fiscal antes do pagamento final,
-    solicitar o pagamento da segunda parcela no mesmo e-mail da primeira parcela.
+**Lembre-se:** quando o fornecedor emitir a nota, é necessário **encaminhá-la no mesmo chamado que foi aberto**.  
+É de extrema importância o envio dessa nota, pois atualmente não temos um sistema que consiga puxá-las para termos conhecimento, já que as emissões são municipais.
