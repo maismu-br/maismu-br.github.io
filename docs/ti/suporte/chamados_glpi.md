@@ -4,7 +4,7 @@
 
 !!! note warning "Importante."
 
-    Certifique-se de que o perfil 'Self-Service está selecionado clicando na setinha ao lado de suas iniciais no canto superior direito.
+    Certifique-se de que o perfil 'Self-Service' está selecionado clicando na setinha ao lado de suas iniciais no canto superior direito.
 
 ![glpi1](/assets/images/chamado_glpi_1.png#center)
 
