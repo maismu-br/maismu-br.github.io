@@ -1,6 +1,6 @@
 # Como acompanhar chamados no GLPI
 
-1. Após fazer login no [GLPI](https://suporte.maismu.com.br/marketplace/formcreator/front/wizard.php), clique em **Meus chamados** no menu lateral.
+ - Após fazer login no [GLPI](https://suporte.maismu.com.br/marketplace/formcreator/front/wizard.php), clique em **Meus chamados** no menu lateral.
 
 Aqui você terá visibilidade de todos os chamados que abriu, além daqueles em que outras pessoas o colocaram em cópia.
 

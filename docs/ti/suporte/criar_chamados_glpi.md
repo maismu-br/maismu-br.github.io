@@ -1,6 +1,6 @@
 # Como abrir chamado no GLPI
 
-1. Após fazer login no [GLPI](https://suporte.maismu.com.br/marketplace/formcreator/front/wizard.php), clique em **Serviços** no menu lateral e escolha a entidade em que necessita de suporte.
+**1**. Após fazer login no [GLPI](https://suporte.maismu.com.br/marketplace/formcreator/front/wizard.php), clique em **Serviços** no menu lateral e escolha a entidade em que necessita de suporte.
 
 !!! note warning "Importante."
 
@@ -8,7 +8,7 @@
 
 ![glpi1](/assets/images/chamado_glpi_1.png#center)
 
-2. Em seguida, escolha a categoria, descreva sua solicitação e clique em **Enviar**.
+**2**. Em seguida, escolha a categoria, descreva sua solicitação e clique em **Enviar**.
 
 !!! note info "Adicione pessoas em cópia"
 
