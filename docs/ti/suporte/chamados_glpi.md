@@ -16,10 +16,3 @@
     Basta inserir o nome no campo “Em cópia”.
 
 ![glpi2](/assets/images/chamado_glpi_2.png#center)
-
-**Pronto!**
-Você receberá uma confirmação e todas as atualizações do seu chamado por e-mail.
-
-Também é possível acompanhar o andamento do chamado clicando em “**Meus chamados**” no menu lateral.
-
-![glpi3](/assets/images/chamado_glpi_3.png#center)
