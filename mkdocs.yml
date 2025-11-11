@@ -20,8 +20,9 @@ nav:
                 - Admissão:
                         - Processo de Admissão: ti/admissao/processo_admissao_ti.md
                 - Suporte:
+                        - Como abrir chamado no GLPI: ti/suporte/criar_chamados_glpi.md
+                        - Acompanhar chamado no GLPI: ti/suporte/acompanhar_chamado_glpi.md
                         - A Importância de Reiniciar o PC: ti/suporte/reiniciar_pc.md
-                        - Como abrir chamado no GLPI: ti/suporte/chamados_glpi.md
                         - Softwares Homologados: ti/suporte/softwares_homologados.md
                         - Assistência Rápida: ti/suporte/assistencia_rap.md
                 - Backup:
