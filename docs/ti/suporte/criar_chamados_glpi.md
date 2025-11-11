@@ -2,7 +2,7 @@
 
 **1**. Após fazer login no [GLPI](https://suporte.maismu.com.br/marketplace/formcreator/front/wizard.php), clique em **Serviços** no menu lateral e escolha a entidade em que necessita de suporte.
 
-!!! note warning "Importante."
+!!! note warning "Importante"
 
     Certifique-se de que o perfil 'Self-Service' está selecionado clicando na setinha ao lado de suas iniciais no canto superior direito.
 

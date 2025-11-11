@@ -10,7 +10,7 @@ Vamos entender o motivo:
 
 Para começar, eu preciso deixar claro uma coisa, desligar e reiniciar são coisas distintas.
 
-!!! note info "Desligar:"
+!!! note info "Desligar"
 
     Por padrão o Windows 10 mantém ativo o recurso Fast Startup. É essa função que permite que o usuário, na próxima vez que ele for ligar o PC, experimente um reinício do sistema operacional mais rápido do que na primeira vez em que o computador foi ligado. Em contrapartida, nem todos os processos da sessão anterior são encerrados por completo.
 
@@ -18,7 +18,7 @@ Assim, ao desligar o PC, todos os programas e arquivos em execução serão fech
 
 E conforme os dias forem passando, podem ocorrer certos “erros ou alterações” em alguns processos no kernel que vai se arrastando por dias, deixando cada dia pior a velocidade do seu computador.
 
-!!! note info "Reiniciar:"
+!!! note info "Reiniciar"
 
     Curiosamente, o reiniciar desliga completamente o computador, inclusive o kernel. É justamente por isso que essa alternativa é a mais indicada na tentativa de reparar erros de sistema ou após baixar e instalar atualizações. Pode demorar um pouco mais para que o SO volte a funcionar, mas ele voltará renovado.
 
